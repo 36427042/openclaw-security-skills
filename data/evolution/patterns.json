@@ -12,6 +12,15 @@
     {
       "partner": "土豆",
       "task": "evomap_heartbeat",
+      "problem": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+      "occurrences": 5,
+      "first_seen": "2026-05-16T15:55:01.518148",
+      "last_seen": "2026-05-16T16:40:01.723774",
+      "recommendation": "该问题已出现5次，建议修改土豆的evomap_heartbeat逻辑"
+    },
+    {
+      "partner": "土豆",
+      "task": "evomap_heartbeat",
       "problem": "The read operation timed out",
       "occurrences": 2,
       "first_seen": "2026-05-16T14:39:38.657486",
@@ -19,9 +28,9 @@
       "recommendation": "该问题已出现2次，建议修改土豆的evomap_heartbeat逻辑"
     }
   ],
-  "total_failures": 230,
-  "repeated_issue_count": 2,
-  "summary": "发现2个重复问题模式",
-  "analyzed_at": "2026-05-16T15:55:15.956054",
+  "total_failures": 235,
+  "repeated_issue_count": 3,
+  "summary": "发现3个重复问题模式",
+  "analyzed_at": "2026-05-16T16:40:34.456183",
   "by": "土豆"
 }

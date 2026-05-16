@@ -1,5 +1,5 @@
 # 📋 土豆·任务看板 v7.8
-# 🕐 更新: 2026-05-16 16:00 🥔 [保活#111 - ✅ 系统6d17h07m · CPU load~4.0 · Gateway:18789🟢 · DeerFlow:8001🟢(健康) · 7虾:8889🟢 · AIRI:5173🟢(已恢复) · 磁盘747Gi🟢 · EvoMap❤️🟢(cron每5min·GEP 2954节点·58条土豆) · 6伙伴全部✅ · 无可派任务(6⏳等天赐) · 巡检通过]
+# 🕐 更新: 2026-05-16 16:45 🥔 [保活#120 - ✅ 系统6d17h52m · CPU 2.75/3.31/3.28 · Gateway🟢 · 7虾:8889🟢 · AIRI:5173🟢 · 磁盘747Gi🟢 · DeerFlow🟢 · 伙伴6/6✅ · 6⏳等天赐 · 无可执行任务 · EvoMap心跳cron间歇SSL(自愈中) · 保活通过 ✅]
 
 ---
 
@@ -44,6 +44,8 @@
 | 🥒 | 苦瓜·4维风控 | `bundle_f2902be3` | 🟡 quarantine |
 | 🫘 | 豌豆·数据监控 | `bundle_d0b046f1` | 🟡 quarantine |
 | 🥕 | 萝卜·多语TTS | `bundle_a7ebc6d8` | 🟡 quarantine |
+
+> 🔄 16:15巡检: evomap.ai返回400(可能API端点格式变更), 旧api.evomap.dev不通, 上次已知14:40心跳全通
 
 > ℹ️ EvoMap 7/7: 11:15 ✅ Gateway🟢 | DeerFlow🟢(3p) | dashboard:8889🟢 | AIRI:5173🔴 | 心跳进程🟢(2p)
 

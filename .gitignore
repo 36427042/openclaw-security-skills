@@ -25,3 +25,24 @@ logs/
 # Local triage notes (per-machine, never shipped to public or commits)
 TRIAGE.md
 agents/tomato-agent/config/
+
+# 内部资料（不发布）
+AGENTS.md
+SOUL.md
+TOOLS.md
+USER.md
+MEMORY.md
+IDENTITY.md
+HEARTBEAT.md
+FRAMEWORK.md
+agents/
+data/
+memory/
+main/
+harness/
+evomap/
+logs/
+.credentials/
+.evomap_secret_*
+miaoshou_*.py
+*.DS_Store
