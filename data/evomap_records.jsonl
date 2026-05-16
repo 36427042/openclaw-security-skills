@@ -1,0 +1,16 @@
+{"ts": "2026-05-08T17:05:08.086889", "partner": "booster", "action": "execute", "status": "ok", "duration": 0.0, "detail": ""}
+{"ts": "2026-05-08T17:05:08.131071", "partner": "risk", "action": "execute", "status": "ok", "duration": 0.0, "detail": ""}
+{"ts": "2026-05-08T17:05:08.256731", "partner": "wf:market_check", "action": "run", "status": "ok", "duration": 0.08, "detail": ""}
+{"ts": "2026-05-08T17:06:21.101261", "partner": "copy", "action": "execute", "status": "ok", "duration": 0.0, "detail": ""}
+{"ts": "2026-05-08T17:06:21.186797", "partner": "data", "action": "execute", "status": "ok", "duration": 0.04, "detail": ""}
+{"ts": "2026-05-08T17:06:21.316869", "partner": "wf:market_check", "action": "run", "status": "ok", "duration": 0.08, "detail": ""}
+{"ts": "2026-05-08T17:06:52.554637", "partner": "deerflow", "action": "run", "status": "ok", "duration": 5.51, "detail": "0步完成"}
+{"ts": "2026-05-08T17:06:52.671302", "partner": "wf:market_check", "action": "run", "status": "ok", "duration": 0.08, "detail": ""}
+{"ts": "2026-05-08T17:06:58.112646", "partner": "deerflow", "action": "run", "status": "ok", "duration": 5.44, "detail": "0步完成"}
+{"ts": "2026-05-08T17:06:58.112829", "partner": "fusion", "action": "run_all", "status": "ok", "duration": 5.52, "detail": ""}
+{"ts": "2026-05-08T17:15:12.423706", "partner": "booster", "action": "execute", "status": "ok", "duration": 0.0, "detail": ""}
+{"ts": "2026-05-08T17:15:12.472755", "partner": "copy", "action": "execute", "status": "ok", "duration": 0.0, "detail": ""}
+{"ts": "2026-05-08T17:15:12.521131", "partner": "risk", "action": "execute", "status": "ok", "duration": 0.0, "detail": ""}
+{"ts": "2026-05-08T17:15:12.599832", "partner": "data", "action": "execute", "status": "ok", "duration": 0.04, "detail": ""}
+{"ts": "2026-05-08T17:15:12.725950", "partner": "wf:market_check", "action": "run", "status": "ok", "duration": 0.08, "detail": ""}
+{"ts": "2026-05-08T17:15:18.257189", "partner": "deerflow", "action": "run", "status": "ok", "duration": 5.49, "detail": "0步完成"}

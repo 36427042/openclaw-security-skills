@@ -1,0 +1,1030 @@
+{
+  "generated_at": "2026-05-14 22:48",
+  "total_collected": 468,
+  "passed": 465,
+  "top100": 100,
+  "new_products": 0,
+  "categories": {
+    "美妆工具": {
+      "count": 82,
+      "avg_score": 86.2
+    },
+    "家居日用品": {
+      "count": 11,
+      "avg_score": 86.8
+    },
+    "厨房小件": {
+      "count": 7,
+      "avg_score": 86.4
+    }
+  },
+  "countries": {
+    "TH": 38,
+    "MY": 26,
+    "VN": 11,
+    "PH": 11,
+    "SG": 14
+  },
+  "top100_list": [
+    {
+      "product_id": "1729658608795880322",
+      "name": "DAZZLE ME Get a Grip! Makeup Setting Spray สเปรย์ล็อคเมคอัพ ควบคุมความมัน ติดทนนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 2.9,
+      "sales_30d": 42733,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1731148196321069954",
+      "name": "[Special] DAZZLE ME Get a Grip! Makeup Setting Spray สเปรย์ล็อคเมคอัพ ควบคุมความมัน ติดทนนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.06,
+      "sales_30d": 13057,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730194834232347522",
+      "name": "[1+1] DAZZLE ME Get a Grip! Makeup Setting Spray สเปรย์ล็อคเมคอัพ ควบคุมความมัน ติดทนนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 6.39,
+      "sales_30d": 14231,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1732729994521053058",
+      "name": "[Live] DAZZLE ME Get a Grip! Makeup Setting Spray สเปรย์ล็อคเมคอัพ ควบคุมความมัน ติดทนนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 5.62,
+      "sales_30d": 13762,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1730097522083138434",
+      "name": "DAZZLE ME Get a Grip! Makeup Setting Spray Matte Fix เซ็ตติ้งสเปรย์ฟินิชแมท ล็อคเมคอัพติดทนนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.64,
+      "sales_30d": 12195,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1732164298067774338",
+      "name": "[Special] DAZZLE ME Get A Grip! Makeup Setting Spray Prime+Set Anti-Pollution เซ็ตติ้งสเปรย์ฟินิชซาติน ติดทนยาวนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.52,
+      "sales_30d": 11300,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730057805202951042",
+      "name": "DAZZLE ME Better Cover Skin Set (Get a Grip! Makeup Setting Spray + BTF Two way cake powder)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 7.87,
+      "sales_30d": 11879,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730299102161439618",
+      "name": "DAZZLE ME Double Lock Base Makeup Set (Get a Grip! Makeup Setting Spray + BTF Maxnificent Essence Cushion)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 9.51,
+      "sales_30d": 11849,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1732133796121971586",
+      "name": "Dazzle Me Get A Grip! Makeup Setting Spray Prime+Set Anti-Pollution",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.27,
+      "sales_30d": 10051,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1732130329487116162",
+      "name": "DAZZLE ME Best Seller Combo Set (Get a Grip! Makeup Setting Spray + BTF HD Invisible Powder)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 9.72,
+      "sales_30d": 11595,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1731793987181841282",
+      "name": "[Special] DAZZLE ME Better Cover Skin Set (Get a Grip! Makeup Setting Spray + BTF Two way cake powder)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 7.16,
+      "sales_30d": 11862,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1732051004665072514",
+      "name": "[SET Setting Spray 3 ชิ้น] DAZZLE ME Get a Grip! Makeup Setting Spray",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 9.94,
+      "sales_30d": 11137,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1731058801603087234",
+      "name": "[ACNE SERIES SET] DAZZLE ME Get a Grip! Makeup Setting Spray Acne Soothing + Acne Armor Cover & Correct Skin Tint",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 7.9,
+      "sales_30d": 11836,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1731793907124898690",
+      "name": "[Special] DAZZLE ME Double Lock Base Makeup Set (Get a Grip! Makeup Setting Spray + BTF Maxnificent Essence Cushion)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 9.94,
+      "sales_30d": 11079,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730342848985860994",
+      "name": "DAZZLE ME Sun UV Protection & Double Lock Makeup Set (BTF Cushion + Sunscreen Gel + Setting Spray)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 14.63,
+      "sales_30d": 11838,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1734447296403310466",
+      "name": "[Exclusive Tiffany Live][SET Setting Spray 3 ชิ้น] DAZZLE ME Get a Grip! Makeup Setting Spray สเปรย์ล็อคเมคอัพ ควบคุมความมัน ติดทนนาน",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 16.08,
+      "sales_30d": 11074,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1729677332317505815",
+      "name": "[BCD] คอมฟอร์ท บิวตี้ เพอร์ฟูม  น้ำยาปรับผ้านุ่ม 450-475 มล. (เลือกสูตรด้านใน) Comfort Beauty Perfume Softener 450-475 ml.",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 4.15,
+      "sales_30d": 21449,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1734019365665539284",
+      "name": "Oriental Princess ครีมทาผิว Oriental Beauty Body Lotion 400 ml",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 4.2,
+      "sales_30d": 11226,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1729662006456322148",
+      "name": "Oriental Beauty Body Lotion โลชั่น บำรุงผิว มอยส์เจอร์ไรเซอร์ 400ml.",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 4.08,
+      "sales_30d": 11444,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1729428924695349718",
+      "name": "แป้งพัฟสุรีย์พร 199 บาท - Sureeporn Powder Foundation  ( ผู้หญิง รองพื้น เครื่องสำอาง Cosmetics ) กันน้ำ Women ผิวหน้า ใบหน้า 【พร้อมส่ง】",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 6.88,
+      "sales_30d": 10951,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730343799017540451",
+      "name": "PALA รองพื้น กันน้ำ เนื้อบางเบา ปกปิดระดับกลาง สิว ฝ้ากระจุดด่างดำ SPF50+PA+++ ขนาด 30g. Soft Mist Long-Lasting Liquid Foundation เครื่องสำอาง ผู้หญิง Cosmetics แบรนด์ไทย มีอ.ย. Women ผิว",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.89,
+      "sales_30d": 102661,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729618547427018851",
+      "name": "MELYNN - Airy Glossy Lip Tint ลิปกลอส ทินท์ ลูกกวาด ปากฉ่ำ Liptint ริมฝีปาก Cosmetic เครื่องสำอาง ผู้หญิง Women",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.3,
+      "sales_30d": 24325,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729584292697507122",
+      "name": "【BEST SELLER】GMEELAN Black Truffle Zinc PCA Antioxidant Air Cushion 7g+10g Concealer Oil Control Even Skin Tone Brightening Pink Foundation Makeup Waterproof High Coverage Poreless Skin Flawless  Long-lasting with a light texture",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 6.1,
+      "sales_30d": 16471,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729686504328104930",
+      "name": "Sea Makeup Lock It Matte Acne Setting Spray - Longlasting Makeup Waterproof - Spray Wajah Kalis Air Tidak Mudah Luntur, Kesan Akhir Matte,Spray Primer Tahan Lama",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 6.36,
+      "sales_30d": 21280,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729991372869371339",
+      "name": "[LIVE] The Originote High Cover Serum Cushion SPF 35 PA++ | Makeup Tekstur ringan, hasil matte sepanjang hari,Concealer, Foundation, Oil Control, Even Skin Tone, Brightening, Makeup, High Coverage, Poreless Skin, Flawless, Sensitive Skincare",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 2.81,
+      "sales_30d": 110361,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730637480787019746",
+      "name": "Sea Makeup Stayput Prime & Set Continuous Setting Spray - Longlasting Makeup Flawless Velvet Matte Finish -  Kawalan Minyak, Kalis Air dan Tahan Lama Spray Primer Matte Makeup Kosmetik Wajah",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 6.86,
+      "sales_30d": 49671,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1729490651636205560",
+      "name": "[CLEARANCE | EXP OCT 26]  Judydoll Soft Cloud 4 Colors Eyeshadow Palette Beautiful Eye Makeup Shining and Matte- Rich Colour Long Lasting Eye MakeUp",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 8.9,
+      "sales_30d": 15793,
+      "rating": 5,
+      "score": 90
+    },
+    {
+      "product_id": "1730668740719248753",
+      "name": "[LESSXCOCO]Waterproof Mascara Long LastingNatural Curling Eye Lash Makeup Maskara EyelashBlack",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 3.03,
+      "sales_30d": 34831,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729443994928777648",
+      "name": "[Salju Beauty] Foundation(38ml)",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 5.08,
+      "sales_30d": 11807,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729512795723891893",
+      "name": "Panna Lab Lipbies Lip Matte for Tanned Skin Brightens Dark Lips, Kiss-Proof, Long-Lasting Lipstick Makeup Beauty Malaysia",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 4.97,
+      "sales_30d": 12217,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1733250420131399518",
+      "name": "[COMBO QUYẾN RŨ] Bodymist Nhũ Lấp Lánh Nước Hoa Nam Nữ EHERB - Xịt Thơm Body Kim Tuyến Nữ BODYMISS Phù Hợp Đi Học, Hẹn Hò - Xịt Khử Mùi Cho Nam - Nước Hoa Mini Hair Mist Perfume Cosmetic Fragrance Women Mỹ Phẩm Chính Hãng Princess",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 13.83,
+      "sales_30d": 25657,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730702949640538704",
+      "name": "【Buy 1 Get 1】Organic Mixed Berry Powder Beverage Juice Beauty Drink Juice Full of Vitamins Nutritious 7sanchets/pack",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 6.36,
+      "sales_30d": 26455,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730063538717559220",
+      "name": "CC Glam & Beauty Official Glowming Detox 10 x 20g Sachets per Pouch Glutathione Collagen Organic GMO Free Gluten Free 8 Flavors Berry Glow Coffee Choco Blast Milky Matcha Milky Mango Pomegranate",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 7.54,
+      "sales_30d": 17829,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1730751206442830076",
+      "name": "You Glow Babe Beauty White Soap ( 5 X 70g ) - 1 PACK  Sea Buckthorn Snail Extract & Niacinamide Body Care",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 3.38,
+      "sales_30d": 34109,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1730168178567972939",
+      "name": "blk cosmetics fresh radiant glow filter foundation - 30ml",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 9.98,
+      "sales_30d": 14915,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1732502798233273746",
+      "name": "【buy 1 take 2】OWEN JAMES  mirror Lip Gloss Long-lasting Waterproof and Moisturizing Lip Glaze Lip Gloss Lip Care Makeup Beauty",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 5.27,
+      "sales_30d": 12514,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729638530318502116",
+      "name": "กล่องเก็บของ กล่องผ้าพับได้แบบมีโครงเหล็ก กล่องผ้าพับได้ กล่องผ้าโครงเหล็ก กล่องใส่ของ กล่องเก็บของ กล่องเอนกประสงค์ Garments Storage",
+      "category": "家居日用品",
+      "country": "TH",
+      "price": 4.48,
+      "sales_30d": 10560,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729614626876918245",
+      "name": "Vacuum Bag Big ถุงสูญญากาศเก็บของ เก็บเสื้อ SetStorage Vacuum Bag ถุงสูญญากาศจัดเก็บถุงใส่เสื้อผ้า ถุงเหนียวมีความทนทานไม่ขาดง่าย สามารถใช้งานซ้ำ",
+      "category": "家居日用品",
+      "country": "TH",
+      "price": 5.52,
+      "sales_30d": 11355,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1733205217149355669",
+      "name": "12 PCS Vacuum Bag Clothes Organization Vacuum Storage Bag With Electric Pump Plastik Vacum Pakaian Plastik Kedap Udara",
+      "category": "家居日用品",
+      "country": "MY",
+      "price": 11.04,
+      "sales_30d": 24860,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1729451174648974078",
+      "name": "Rak Jemuran 3 Tingkat – Rak Tuala & Pakaian Serbaguna Rumah 3 Tier Towel Rack Household Laundry Rack Plastic Drying Rack Home Supplies",
+      "category": "家居日用品",
+      "country": "MY",
+      "price": 6.94,
+      "sales_30d": 10801,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1729720396098341407",
+      "name": "【FDA approved】MIKIWI CLEANER DIY DISHWASHING LIQUID KIT Household Fresh Calamansi 15-16L",
+      "category": "家居日用品",
+      "country": "PH",
+      "price": 4.17,
+      "sales_30d": 10244,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1732654994323834451",
+      "name": "( 5หิ้ว5000แผ่น ) กระดาษทิชชู่ Lepare ทิชชู่เช็ดหน้า ไซส์ใหญ่ ยกลัง หนา4ชั้น ซึมซับน้ำได้ดี เนื้อกระดาษนุ่ม เกรดGB/T20808 ไม่เป็นขุย แบบดึงแขวน ตะขอแขวน2ตัว【Kitchen Rolls】",
+      "category": "厨房小件",
+      "country": "TH",
+      "price": 3.24,
+      "sales_30d": 19885,
+      "rating": 4.9,
+      "score": 90
+    },
+    {
+      "product_id": "1729483026823742714",
+      "name": "SUPERSAVE Langsir Kabinet Dapur Tirai Kabinet Dapur Kain Kabinet Dapur Kitchen Curtain Skirting Dapur Kabinet Curtain Langsir Sinki Vecro Cabinet Curtain",
+      "category": "厨房小件",
+      "country": "MY",
+      "price": 2.88,
+      "sales_30d": 13736,
+      "rating": 4.8,
+      "score": 90
+    },
+    {
+      "product_id": "1731141006894402434",
+      "name": "DAZZLE ME Get a Grip! Makeup Setting Spray Acne Soothing",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.55,
+      "sales_30d": 9687,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1732130343977060226",
+      "name": "DAZZLE ME Power Lock & Easy-Off Set (Get a Grip! Makeup Setting Spray + Acne Armor Remover Wipes)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 6.17,
+      "sales_30d": 5620,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1729436475575601364",
+      "name": "Oriental Princess โรลออน ระงับกลิ่นใต้วงแขน Oriental Beauty Anti-Perspirant/Deodorant 70 ml",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 2.62,
+      "sales_30d": 9164,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1729436475286653140",
+      "name": "Oriental Princess ครีมอาบน้ำ Oriental Beauty Shower Cream 400 ml",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.09,
+      "sales_30d": 8712,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1730003574139947894",
+      "name": "Yanhee Beauty Breast Cream 30 g. ยันฮี บิวตี้เบรส ครีม หน้าอก",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 4.36,
+      "sales_30d": 8240,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1731774553548032867",
+      "name": "PALA บลัชออน Beauty Ombre Bicolors Powder Blusher ปัดแก้ม แบรนด์ไทย มีอ.ย. ใบหน้า สีส้ม ผิวหน้า",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 3.21,
+      "sales_30d": 7735,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1730104710646958360",
+      "name": "New สบู่ล้างแปรงแต่งหน้า บลัชคลีนเซอร์ withat 100 กรัม Brush cleanser 100g. Cosmetic",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 6.49,
+      "sales_30d": 5315,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1729604678980373231",
+      "name": "[BEST SELLER!!] DAZZLE ME Get a Grip! Makeup Setting Spray 60ML Dewy Fix, Matte Fix, Shimmer Fix Acne Soothe, Barbie Matte 50ml Setting Spray, Fine Mist Spray, 36H Makeup Lock Oil Control Set",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 3.94,
+      "sales_30d": 6144,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1732099171379873393",
+      "name": "ROCK SWEET Velvet Mist Brow Tint in Soft Brown Long-Lasting Waterproof Smudge-Proof Quick-Dry Natural Eyebrow Makeup Koko",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 15.21,
+      "sales_30d": 14637,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1731068557861356576",
+      "name": "[GX] SKINTIFIC Cover All Perfect Cushion High Coverage Poreless & Flawless Foundation Long-lasting SPF35 PA++++ Makeup Waterproof Concealer Penjagaan Kulit",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 6.03,
+      "sales_30d": 9157,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1731066236426814496",
+      "name": "[BUY 1 FREE 1 ] SKINTIFIC Cover All Perfect Cushion High Coverage Poreless & Flawless Foundation Long-lasting SPF35 PA++++ Makeup Waterproof Concealer Penjagaan Kulit",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 14.75,
+      "sales_30d": 9271,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1730328188142191867",
+      "name": "Strawberry Beauty Jelly (Anti-oxidant Jelly) 15g/sachet",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 2.69,
+      "sales_30d": 9298,
+      "rating": 5,
+      "score": 85
+    },
+    {
+      "product_id": "1729416961107200089",
+      "name": "Wardah Brightening & Hydrating Toner 125 ml|Raya Glow,Ramadhan Beauty Prep, Suci Lebaran",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 3.69,
+      "sales_30d": 8216,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1730606149394269204",
+      "name": "SimHome Wall Mounted Cosmetic Storage Cabinet Bathroom&Kitchen Cabinet Simple Wall Mounted Skincare Products Storage Box Kotak Penyimpanan Dinding",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 3.99,
+      "sales_30d": 24492,
+      "rating": 4.6,
+      "score": 85
+    },
+    {
+      "product_id": "1732090668618123809",
+      "name": "HEXZE Phấn Nước 2in1 Cushion Kèm Phấn Phủ SPF25 PA+++ 13g+6.5g Chống Nắng Long Lasting Makeup Căng Bóng Tự Nhiên",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 7.21,
+      "sales_30d": 12394,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1729637990571019102",
+      "name": "[MUA 2 GIẢM 50%] Bodymist Cho Nam EHERB Phù Hợp Hẹn Hò, Đi Chơi - Xịt Thơm Toàn Thân Nam & Nước Hoa Unisex Fragrance Nữ Thơm Lâu BODYMISS Perfume Cosmetic Mỹ Phẩm Mùi Mới Quốc Dân Hair Mist Phù Hợp Học Sinh Sinh Viên Women 105ml (Chai)",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 4.5,
+      "sales_30d": 39485,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1729740235636050782",
+      "name": "[MUA 2 GIẢM 50%] Body Mist Nước Hoa Nam EHERB Việt Nam - Xịt Thơm Tóc & Quần Áo Giữ Mùi Lâu Nước Hoa Cho Nam & Khử Mùi Cơ Thể  - Body Mist BODYMISS Chính Hãng - Nước Hoa Cho Nữ Perfume Cosmetic Chai (105ml) Mỹ Phẩm",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 4.5,
+      "sales_30d": 10008,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1731811311558625118",
+      "name": "[CB3 NHŨ QUYẾN RŨ] Bodymist Nhũ Lấp Lánh Nước Hoa Nam Nữ EHERB - Xịt Thơm Body Kim Tuyến Unisex BODYMISS Phù Hợp Đi Học, Hẹn Hò - Xịt Khử Mùi Cho Nam - Nước Hoa Mini Hair Mist Perfume Cosmetic Fragrance Women Mỹ Phẩm Chính Hãng Princess",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 13.83,
+      "sales_30d": 9795,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1731828027094436702",
+      "name": "[CB HẸN HÒ - 3 CHAI 199K] Xịt Thơm Body Mist Việt Nam EHERB - Nước Hoa Cho Nữ Thơm Lâu Quyến Rũ Nhẹ Nhàng BODYMISS - Xịt Thơm Toàn Thân - Khử Mùi Cơ Thể - Body Mist Quốc Dân Học Sinh Viên - Tóc Hair Mist Perfume Fragrance Women Cosmetic",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 8.31,
+      "sales_30d": 9802,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1731828130918271838",
+      "name": "[CB THỂ THAO - 3 CHAI 199K] Full Size - Xịt Thơm Body Mist Toàn Thân Học Sinh Sinh Viên EHERB - Nước Hoa Nam Quyến Rũ Lịch Lãm Thơm Lâu BODYMISS - Khử Mùi Cơ Thể Nam Chơi Thể Thao Gym - Xịt Thơm Tóc Nữ Body Hair Mist Perfume Cosmetic Unisex Men",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 8.31,
+      "sales_30d": 9796,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1729443456102533665",
+      "name": "[ MUA 1 TẶNG 1 LÕI THAY THẾ ] -HEXZE Cushion  phấn nước mịn đẹp Trang Điểm Mỹ Phẩm Nữ Cosmetic Women",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 7.05,
+      "sales_30d": 8373,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1729640469399833152",
+      "name": "[FDA Approved] BUY 1 TAKE 1 WORADA SPF60 Facial Sunscreen Sunblock Whitening Cream Comfort Skincare Long Lasting All Skin Types 3IN1 Sunscreen Protection Moisturizer MakeUp Primer Skin Repair Uv Daily Hydrating Moisture beauty salve Pack WaterProof Gentle",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 3.35,
+      "sales_30d": 22655,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1729384694692744503",
+      "name": "Aishi Tokyo Japan White C-Block Glutathione + Oral Sunblock + NAC+ Vitamin C + Rosehips Whitening Beauty Supplement",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 9.01,
+      "sales_30d": 5529,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1729388275635752498",
+      "name": "Simplee GlutaGenC Whitening Capsule Supplements – FDA Approved | 500mg | 60 Capsules – Combines Glutathione, Vitamin C, and Collagen to Help Promote Skin Radiance, Glow, and Antioxidant Support for Daily Beauty and Wellness Routine [1]",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 4.71,
+      "sales_30d": 8402,
+      "rating": 4.8,
+      "score": 85
+    },
+    {
+      "product_id": "1729388540656913516",
+      "name": "LS Drinks All Variants  21g x 8 pouch/500G Jar/1KG pouch | Beauty and Wellness | Dietary Supplement | Health & Fitness",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 7.26,
+      "sales_30d": 5667,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1729383335868534472",
+      "name": "Squad Cosmetics Conceal It",
+      "category": "美妆工具",
+      "country": "PH",
+      "price": 3.53,
+      "sales_30d": 31327,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1734234777797887379",
+      "name": "I WaWa | A Color Correcting Concealer Palette, 4 Shades, Includes a Free Makeup Sponge, for Color Correction, Highlighting, and Defining, Helps Cover Dark Circles and Dark Spots",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 10.61,
+      "sales_30d": 6718,
+      "rating": 5,
+      "score": 85
+    },
+    {
+      "product_id": "1731242169564497781",
+      "name": "【SG Ready Stock】Annie's beauty Large capacity glue-free false eyelashes, no extra glue needed, Windproof, Waterproof & Long-lasting，60-120 clusters. Easy to apply, suitable for all makeup looks.",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 6.37,
+      "sales_30d": 15281,
+      "rating": 4.6,
+      "score": 85
+    },
+    {
+      "product_id": "1731431416150853511",
+      "name": "MAANGE Makeup Brush Set Foundation Brush Eyebrow Brush Blush Brush Soft Fiber Wool Facial And Eye Beauty Tool High Quality 52037",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 8.45,
+      "sales_30d": 5461,
+      "rating": 5,
+      "score": 85
+    },
+    {
+      "product_id": "1732977420959713178",
+      "name": "Eyebrow Pencil Long-Lasting Brow Makeup Natural Color Rendering Tear Off Pull Line Waterproof Easy Wear Eyebrow Dye Beauty Tools High Pigment Smudge Shaping Colorstay Defining Brow",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 2.18,
+      "sales_30d": 7296,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1730734394184206290",
+      "name": "(Random Pick 4 packs-120pcs) MOMO HOUSE Milk Storage Bag Double Lock Breastmilk Storage Bag Breast Milk 4oz/5oz/7oz/8oz momo  house",
+      "category": "家居日用品",
+      "country": "MY",
+      "price": 5.75,
+      "sales_30d": 7961,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1729451128702536446",
+      "name": "Rak Baju Besi Satu & Dua Tiang Rak Pengeringan Rumah Single & Double Pole Steel Clothes Rack Household Drying Rack Home Supplies Laundry",
+      "category": "家居日用品",
+      "country": "MY",
+      "price": 5.08,
+      "sales_30d": 16373,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1729476508659321598",
+      "name": "Rak Besi 4 Tingkat Serbaguna 4 Tier Metal Racks Household Shelves Home Supplies & Furnitures",
+      "category": "家居日用品",
+      "country": "MY",
+      "price": 10.24,
+      "sales_30d": 11404,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1731204444506393333",
+      "name": "Lulu Home Buy 1 Take 4 1280 Sheets 4-Ply Tissue Paper Toilet & Facial Orange Hanging Wall Tissue Household Hand Paper Air Cushion Medium Size Soft Absorbent Quick Cleaning",
+      "category": "家居日用品",
+      "country": "PH",
+      "price": 3.28,
+      "sales_30d": 41578,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1733529572722377891",
+      "name": "Household Portable Rechargeable Vacuum Sealer 2 in 1 Mini Snack Heat Sealer Snack Plastic Bag White Vacuum Household Daily Storage Bag",
+      "category": "家居日用品",
+      "country": "SG",
+      "price": 22.88,
+      "sales_30d": 6999,
+      "rating": 4.9,
+      "score": 85
+    },
+    {
+      "product_id": "1733661604550838119",
+      "name": "ESShelf ชั้นวางของ 3/4/5ชั้น สูง100cm 150cm 180cm ขาว ดำ แข็งแรง ทนทาน เหล็กแข็งแรง Warehouse Supermarket kitchen shelf เหล็กดัด Metal ชั้นวางของ4ชั้น3ชั้นไม้",
+      "category": "厨房小件",
+      "country": "TH",
+      "price": 5.49,
+      "sales_30d": 14665,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1732655202326775738",
+      "name": "( พร้อมส่ง10ห่อใหญ่ ) ทิชชู่หมีน้อยน่ารัก ห่อใหญ่แน่นๆ หนานุ่ม2ชั้น 1ห่อ/168แผ่น เกรดGB/T20808 เช็ดหน้าได้  1หิ้ว มี5ห่อ กระดาษทิชชู่แบบห่อยาว 【Kitchen Rolls】】",
+      "category": "厨房小件",
+      "country": "TH",
+      "price": 3.25,
+      "sales_30d": 15929,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1729621384875901978",
+      "name": "Ringgit Home Shop 3PCS/Set Set Pengisar Sayur Alat Dapur / Multifunctional Stainless Steel Practical Drain Vegetable Grater Set Kitchen Tools 3PCS/Set",
+      "category": "厨房小件",
+      "country": "MY",
+      "price": 2.8,
+      "sales_30d": 20366,
+      "rating": 4.7,
+      "score": 85
+    },
+    {
+      "product_id": "1732073282775385336",
+      "name": "【12 Packs】ROYOPANDA FACIAL HANGING TISSUES - 120x170mm, 4D Air Cushion, Wet/Dry Use, Skin-Friendly, Fragrance-Free, Made from Virgin Bamboo Pulp, Compliant with GB/T 20808, Kitchen Tissue.",
+      "category": "厨房小件",
+      "country": "SG",
+      "price": 3.43,
+      "sales_30d": 16722,
+      "rating": 4.6,
+      "score": 85
+    },
+    {
+      "product_id": "1733440262947964269",
+      "name": "Food covers, disposable plastic, brightly colored stretch wrap, fresh-keeping lids, plate covers, kitchen packaging bags, storage bags",
+      "category": "厨房小件",
+      "country": "SG",
+      "price": 2.01,
+      "sales_30d": 51470,
+      "rating": 4.5,
+      "score": 85
+    },
+    {
+      "product_id": "1731785175081323394",
+      "name": "DAZZLE ME Beauty Skin Set (Setting Spray + BTF Cushion + Primer)",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 15.09,
+      "sales_30d": 2715,
+      "rating": 5,
+      "score": 80
+    },
+    {
+      "product_id": "1734412593450943981",
+      "name": "Kaniva No Pet Beauty Standard Limited Edition Pack คานิว่า อาหารแมวและสุนัข ขนาด 1 kg.",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 6.94,
+      "sales_30d": 3296,
+      "rating": 4.8,
+      "score": 80
+    },
+    {
+      "product_id": "1734721223814645045",
+      "name": "【William Live】SKINTIFIC  MATTE CUSHION Refill & MINI MATTE CUSHION ให้การปกปิด แมตต์ติดทนตลอดวัน  High Coverage Poreless & Flawless Foundation 24H ติดทนนาน SPF35 PA++++ Cosmetic Cosmetics ผู้หญิง เครื่องสำอาง Women ใบหน้า รองพื้น Cosmetic ผิว",
+      "category": "美妆工具",
+      "country": "TH",
+      "price": 10.31,
+      "sales_30d": 2321,
+      "rating": 4.9,
+      "score": 80
+    },
+    {
+      "product_id": "1729444184518199942",
+      "name": "Berryfull +Plus Mixed Berry (30 Hari) | Inayah Beauty Supplement",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 16.42,
+      "sales_30d": 2526,
+      "rating": 4.8,
+      "score": 80
+    },
+    {
+      "product_id": "1729666267700890093",
+      "name": "Foundation Bella Park Cosmetic",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 8.64,
+      "sales_30d": 3754,
+      "rating": 4.8,
+      "score": 80
+    },
+    {
+      "product_id": "1729549773023578491",
+      "name": "FOUNDATION KULIT BERMINYAK alhaalfa cosmetics ROYAL PROPOLIS FOUNDATION PERFECT GLOW",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 13.75,
+      "sales_30d": 3341,
+      "rating": 4.9,
+      "score": 80
+    },
+    {
+      "product_id": "1729583471932901755",
+      "name": "FOUNDATION KULIT KERING alhaalfa cosmetics ROYAL PROPOLIS LUMINOUS SILK FOUNDATION",
+      "category": "美妆工具",
+      "country": "MY",
+      "price": 13.7,
+      "sales_30d": 2461,
+      "rating": 4.9,
+      "score": 80
+    },
+    {
+      "product_id": "1731285157252007457",
+      "name": "[ Hexze x KOC ]-CUSHION 2IN1 Cushion +Phấn Phủ 2in1 Hexze Hỗ Trợ chống nắng SPF25 PA+++, Mỏng nhẹ Giữ Lớp Makeup Lâu Trôi( cushion 13g+ Phấn Phủ 6,5g, 2 bông phấn)",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 7.21,
+      "sales_30d": 6155,
+      "rating": 4.7,
+      "score": 80
+    },
+    {
+      "product_id": "1729577314986658654",
+      "name": "[MUA 2 GIẢM 50%] Bodymist Nước Hoa Nam Nữ EHERB - Xịt Thơm Body Nam Unisex BODYMISS Phù Hợp Đi Học, Hẹn Hò - Xịt Khử Mùi Cho Nam - Nước Hoa Mini Hair Mist Perfume Cosmetic Fragrance Women Mỹ Phẩm Chính Hãng 30ml - 105ml (Chai)",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 4.29,
+      "sales_30d": 6690,
+      "rating": 4.7,
+      "score": 80
+    },
+    {
+      "product_id": "1732449375942510113",
+      "name": "[HEXZE x LIVE ]-CUSHION 2IN1  - Cushion phấn nước mịn đẹp Trang Điểm Mỹ Phẩm Nữ Cosmetic Women",
+      "category": "美妆工具",
+      "country": "VN",
+      "price": 8.73,
+      "sales_30d": 5614,
+      "rating": 4.7,
+      "score": 80
+    },
+    {
+      "product_id": "1729601044244432274",
+      "name": "【Buy 1 get 1】【FDA Approved】Owen James Lip Gloss Velvet Matte Long Lasting Lipstick Makeup Lipgloss charged",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 5.5,
+      "sales_30d": 3794,
+      "rating": 5,
+      "score": 80
+    },
+    {
+      "product_id": "1731030884474849163",
+      "name": "O.TWO.O High Definition Shaping Chopper Eyebrow Pencil Natural Smooth Holds Color Makeup  Create 3D Eyebrow Shape",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 5.5,
+      "sales_30d": 2623,
+      "rating": 4.8,
+      "score": 80
+    },
+    {
+      "product_id": "1729609465223153464",
+      "name": "Lishu foundation brush applies makeup evenly ，Puff Sponges doesn't consume powder, and the creating a perfect, lightweight, and seamless base makeup. The Black Pineapple puff makeup brush high-end gift box for creating flawless makeup.",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 5.82,
+      "sales_30d": 3844,
+      "rating": 4.9,
+      "score": 80
+    },
+    {
+      "product_id": "1731376632188274066",
+      "name": "【Buy 1 TAKE 2】【FDA Approved】oj05 Owen James Lip Gloss Velvet Matte Long Lasting Lipstick Makeup Lipgloss charge",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 5.58,
+      "sales_30d": 4187,
+      "rating": 4.8,
+      "score": 80
+    },
+    {
+      "product_id": "1731431784952530823",
+      "name": "MAANGE 3 PCS Professional Makeup Brush Set Foundation Brush Blusher brush With Triangle Powder Puffs Soft Fiber Beauty Tool 51254",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 6.11,
+      "sales_30d": 2065,
+      "rating": 5,
+      "score": 80
+    },
+    {
+      "product_id": "1729599923639911835",
+      "name": "6 Pcs Ear Cleaner Kits Earpick Sticks Earwax Remover Ear Pick Cleaning Ear Cleanser Spoon Earpick Beauty Accessories Sets Tools",
+      "category": "美妆工具",
+      "country": "SG",
+      "price": 2.3,
+      "sales_30d": 3304,
+      "rating": 4.8,
+      "score": 80
+    },
+    {
+      "product_id": "1729420652445207104",
+      "name": "DODOLOVE ถุงเก็บน้ำนมแม่ อย่างดี breast milk storage bag ถุงเก็บนม เก็บน้ำนม ถุงใส่น้ำนม",
+      "category": "家居日用品",
+      "country": "TH",
+      "price": 3.24,
+      "sales_30d": 2602,
+      "rating": 4.9,
+      "score": 80
+    }
+  ]
+}

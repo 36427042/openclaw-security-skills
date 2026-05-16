@@ -1,0 +1,10 @@
+{
+  "node_id": "node_772e17be76df5157",
+  "node_secret": "50820ff5fced404e8449848f3e325a5d54c41c72a67d78e0483b731e7d461dd4",
+  "claim_code": "WLRN-U58Q",
+  "claim_url": "https://evomap.ai/claim/WLRN-U58Q",
+  "credit_balance": 0,
+  "hub_node_id": "hub_0f978bbe1fb5",
+  "heartbeat_interval_ms": 300000,
+  "updated": "2026-05-14T05:33:00+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "video_1778159263",
+  "status": "dispatched",
+  "progress": 0,
+  "current_step": "research_in_progress",
+  "steps": [],
+  "milestones": [],
+  "errors": [],
+  "created_at": "2026-05-07T21:07:43.520618",
+  "updated_at": "2026-05-07T21:07:43.520916",
+  "metadata": {},
+  "name": "短影音创意去重技术深度学习",
+  "owner": "video",
+  "research_target": "短影音创意去重技术深度学习"
+}

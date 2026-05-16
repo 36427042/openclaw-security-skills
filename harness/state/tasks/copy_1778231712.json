@@ -1,0 +1,18 @@
+{
+  "task_id": "copy_1778231712",
+  "name": "🥬生菜·文案",
+  "owner": "copy",
+  "status": "completed",
+  "progress": 100,
+  "current_step": "execute",
+  "steps": [
+    {
+      "name": "execute",
+      "status": "completed",
+      "detail": ""
+    }
+  ],
+  "errors": [],
+  "created_at": "2026-05-08T17:15:12.467792",
+  "updated_at": "2026-05-08T17:15:12.472651"
+}

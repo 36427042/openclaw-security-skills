@@ -1,0 +1,676 @@
+{
+  "timestamp": "2026-05-11 19:01",
+  "api_status": "🟢 正常",
+  "countries": {
+    "TH": {
+      "status": "🟢 有数据",
+      "hot_products": [
+        {
+          "name": "SUPERMOM l 117 Cushion puff à¸",
+          "sales_30d": 26202,
+          "sales_1d": 624,
+          "price": 1.83,
+          "gmv_30d": 47754.09,
+          "videos_30d": 43,
+          "lives_30d": 109,
+          "views_30d": 181292,
+          "rating": 4.9,
+          "reviews": 4563
+        },
+        {
+          "name": "ãà¸à¸µà¹à¸à¸±à¸à¸à¸à¸",
+          "sales_30d": 25492,
+          "sales_1d": 1611,
+          "price": 2.17,
+          "gmv_30d": 55065.22,
+          "videos_30d": 298,
+          "lives_30d": 21,
+          "views_30d": 637526,
+          "rating": 4.8,
+          "reviews": 6583
+        },
+        {
+          "name": "scbrush à¹à¸à¸à¹à¸à¸£à¸à",
+          "sales_30d": 21154,
+          "sales_1d": 1129,
+          "price": 3.06,
+          "gmv_30d": 62367.43,
+          "videos_30d": 215,
+          "lives_30d": 270,
+          "views_30d": 91765,
+          "rating": 4.9,
+          "reviews": 53756
+        },
+        {
+          "name": "AD-homelife à¸à¸£à¸°à¸à¸à¸",
+          "sales_30d": 20817,
+          "sales_1d": 111,
+          "price": 1.8,
+          "gmv_30d": 37433.06,
+          "videos_30d": 250,
+          "lives_30d": 387,
+          "views_30d": 475939,
+          "rating": 4.8,
+          "reviews": 17685
+        },
+        {
+          "name": "OUKEYA à¸à¸±à¸à¸à¸­à¸à¸à¹",
+          "sales_30d": 20367,
+          "sales_1d": 1033,
+          "price": 1.06,
+          "gmv_30d": 21354.62,
+          "videos_30d": 72,
+          "lives_30d": 86,
+          "views_30d": 43790,
+          "rating": 4.8,
+          "reviews": 11897
+        },
+        {
+          "name": "ãGiftãKARIOOO à¹à¸«à¸à¸",
+          "sales_30d": 18547,
+          "sales_1d": 395,
+          "price": 0.59,
+          "gmv_30d": 10827.33,
+          "videos_30d": 1,
+          "lives_30d": 16,
+          "views_30d": 41,
+          "rating": 4.8,
+          "reviews": 134
+        },
+        {
+          "name": "PALA à¸ªà¸³à¸¥à¸µ à¹à¸à¹à¸",
+          "sales_30d": 15083,
+          "sales_1d": 617,
+          "price": 1.21,
+          "gmv_30d": 18179.29,
+          "videos_30d": 276,
+          "lives_30d": 379,
+          "views_30d": 385823,
+          "rating": 4.8,
+          "reviews": 8841
+        },
+        {
+          "name": "ãà¸à¸µà¹à¸à¸±à¸à¸à¸à¸",
+          "sales_30d": 14298,
+          "sales_1d": 659,
+          "price": 2.17,
+          "gmv_30d": 30896.06,
+          "videos_30d": 221,
+          "lives_30d": 381,
+          "views_30d": 129280,
+          "rating": 4.8,
+          "reviews": 14058
+        },
+        {
+          "name": "OUKEYA à¸à¸±à¸à¸à¸­à¸à¸à¹",
+          "sales_30d": 14275,
+          "sales_1d": 1579,
+          "price": 1.06,
+          "gmv_30d": 14990.66,
+          "videos_30d": 34,
+          "lives_30d": 131,
+          "views_30d": 4874,
+          "rating": 4.8,
+          "reviews": 9758
+        },
+        {
+          "name": "Chatlotte Prefect Puff à¸à¸±à",
+          "sales_30d": 13986,
+          "sales_1d": 392,
+          "price": 2.14,
+          "gmv_30d": 29813.37,
+          "videos_30d": 63,
+          "lives_30d": 139,
+          "views_30d": 51887,
+          "rating": 4.9,
+          "reviews": 2848
+        }
+      ],
+      "summary": {
+        "top10_sales_30d": 190221,
+        "top10_gmv_30d": 328681.13,
+        "avg_price": 1.73,
+        "total_videos_30d": 1473,
+        "total_lives_30d": 1919,
+        "total_reviews": 130123,
+        "avg_rating": 4.8
+      }
+    },
+    "MY": {
+      "status": "🟢 有数据",
+      "hot_products": [
+        {
+          "name": "MIRRORKU Cermin Bulat Kecil Ma",
+          "sales_30d": 21428,
+          "sales_1d": 803,
+          "price": 0.08,
+          "gmv_30d": 1732.33,
+          "videos_30d": 25,
+          "lives_30d": 64,
+          "views_30d": 29821,
+          "rating": 4.8,
+          "reviews": 695
+        },
+        {
+          "name": "Berus Bulu Mata Mini dan Berus",
+          "sales_30d": 19813,
+          "sales_1d": 1029,
+          "price": 1.23,
+          "gmv_30d": 24232.49,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 5,
+          "reviews": 1
+        },
+        {
+          "name": "Pinset Mini Sambungan Bulu Mat",
+          "sales_30d": 18978,
+          "sales_1d": 967,
+          "price": 1.23,
+          "gmv_30d": 23349.26,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4,
+          "reviews": 3
+        },
+        {
+          "name": "5TH ANNIVERSARY - LIMITED EDIT",
+          "sales_30d": 13195,
+          "sales_1d": 1549,
+          "price": 9.44,
+          "gmv_30d": 120672.13,
+          "videos_30d": 674,
+          "lives_30d": 120,
+          "views_30d": 655787,
+          "rating": 4.9,
+          "reviews": 8663
+        },
+        {
+          "name": "ãWOSADOã Eyelash Culer Bla",
+          "sales_30d": 9141,
+          "sales_1d": 261,
+          "price": 8.3,
+          "gmv_30d": 75055.69,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.8,
+          "reviews": 6241
+        },
+        {
+          "name": "Bellaz easy magic puff 2026",
+          "sales_30d": 9068,
+          "sales_1d": 2546,
+          "price": 5.1,
+          "gmv_30d": 68934.44,
+          "videos_30d": 15,
+          "lives_30d": 17,
+          "views_30d": 3423,
+          "rating": 4.9,
+          "reviews": 5058
+        },
+        {
+          "name": "( FREE COVER ) Stainless Steel",
+          "sales_30d": 8428,
+          "sales_1d": 353,
+          "price": 0.07,
+          "gmv_30d": 589.96,
+          "videos_30d": 2,
+          "lives_30d": 0,
+          "views_30d": 1503,
+          "rating": 4.7,
+          "reviews": 2228
+        },
+        {
+          "name": "Set 20unit Berus Mekap â Set",
+          "sales_30d": 8319,
+          "sales_1d": 4,
+          "price": 2.04,
+          "gmv_30d": 16804.41,
+          "videos_30d": 2,
+          "lives_30d": 0,
+          "views_30d": 82,
+          "rating": 4.7,
+          "reviews": 2162
+        },
+        {
+          "name": "Puff Serbuk Kulit, ZFC, Bentuk",
+          "sales_30d": 8057,
+          "sales_1d": 217,
+          "price": 1.79,
+          "gmv_30d": 14251.05,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.3,
+          "reviews": 3
+        },
+        {
+          "name": "Makeup Brush Cleaning Soap Pow",
+          "sales_30d": 7731,
+          "sales_1d": 195,
+          "price": 3.03,
+          "gmv_30d": 23076.93,
+          "videos_30d": 213,
+          "lives_30d": 59,
+          "views_30d": 240203,
+          "rating": 4.9,
+          "reviews": 9848
+        }
+      ],
+      "summary": {
+        "top10_sales_30d": 124158,
+        "top10_gmv_30d": 368698.69,
+        "avg_price": 2.97,
+        "total_videos_30d": 931,
+        "total_lives_30d": 260,
+        "total_reviews": 34902,
+        "avg_rating": 4.7
+      }
+    },
+    "VN": {
+      "status": "🟢 有数据",
+      "hot_products": [
+        {
+          "name": "Mi giả gân trong tự nhiên Anim",
+          "sales_30d": 66197,
+          "sales_1d": 0,
+          "price": 1.88,
+          "gmv_30d": 124428.58,
+          "videos_30d": 2,
+          "lives_30d": 0,
+          "views_30d": 579,
+          "rating": 4.8,
+          "reviews": 3861
+        },
+        {
+          "name": "Lông Mi Giả Tự Nhiên Gân Trong",
+          "sales_30d": 65895,
+          "sales_1d": 0,
+          "price": 1.71,
+          "gmv_30d": 112638.15,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.8,
+          "reviews": 183
+        },
+        {
+          "name": "Mi Giả Tách Cụm Mix 10 Hàng Mi",
+          "sales_30d": 65876,
+          "sales_1d": 0,
+          "price": 2.32,
+          "gmv_30d": 152810.45,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.7,
+          "reviews": 45
+        },
+        {
+          "name": "Lông Mi Giả Sợi Tia Mã Số 131 ",
+          "sales_30d": 61611,
+          "sales_1d": 0,
+          "price": 1.86,
+          "gmv_30d": 114596.46,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 5,
+          "reviews": 18
+        },
+        {
+          "name": "Mi Cụm Cáo Bay Tự Nhiên FL14 M",
+          "sales_30d": 61591,
+          "sales_1d": 0,
+          "price": 1.96,
+          "gmv_30d": 120410.42,
+          "videos_30d": 0,
+          "lives_30d": 5,
+          "views_30d": 0,
+          "rating": 4.6,
+          "reviews": 137
+        },
+        {
+          "name": "Lông Mi Dưới Gân Trong Tự Nhiê",
+          "sales_30d": 61505,
+          "sales_1d": 0,
+          "price": 1.63,
+          "gmv_30d": 100253.15,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 0,
+          "reviews": 0
+        },
+        {
+          "name": "Lông Mi Dưới Gân Trong Sợi Tia",
+          "sales_30d": 61502,
+          "sales_1d": 0,
+          "price": 1.75,
+          "gmv_30d": 107628.5,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.7,
+          "reviews": 18
+        },
+        {
+          "name": "Bông Tẩy Trang Silcot Cơ Bản H",
+          "sales_30d": 33470,
+          "sales_1d": 0,
+          "price": 1.52,
+          "gmv_30d": 50874.4,
+          "videos_30d": 0,
+          "lives_30d": 3,
+          "views_30d": 0,
+          "rating": 4.8,
+          "reviews": 2719
+        },
+        {
+          "name": "Mi Giả Cụm ACE M76 GREEN Thuỷ ",
+          "sales_30d": 31856,
+          "sales_1d": 0,
+          "price": 1.86,
+          "gmv_30d": 59252.16,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 5,
+          "reviews": 13
+        },
+        {
+          "name": "{ Link Gá»p }BÃ´ng táº©y tran",
+          "sales_30d": 27994,
+          "sales_1d": 0,
+          "price": 3.58,
+          "gmv_30d": 100218.52,
+          "videos_30d": 314,
+          "lives_30d": 109,
+          "views_30d": 384731,
+          "rating": 4.7,
+          "reviews": 6226
+        }
+      ],
+      "summary": {
+        "top10_sales_30d": 537497,
+        "top10_gmv_30d": 1043110.79,
+        "avg_price": 1.94,
+        "total_videos_30d": 316,
+        "total_lives_30d": 117,
+        "total_reviews": 13220,
+        "avg_rating": 4.3
+      }
+    },
+    "PH": {
+      "status": "🟢 有数据",
+      "hot_products": [
+        {
+          "name": "Disposable Cotton Pad Cosmetic",
+          "sales_30d": 26845,
+          "sales_1d": 340,
+          "price": 0.88,
+          "gmv_30d": 23398,
+          "videos_30d": 248,
+          "lives_30d": 10,
+          "views_30d": 502165,
+          "rating": 4.6,
+          "reviews": 30287
+        },
+        {
+          "name": "ãFDAãMini Fingertip Puff D",
+          "sales_30d": 15783,
+          "sales_1d": 542,
+          "price": 1.91,
+          "gmv_30d": 30008.74,
+          "videos_30d": 0,
+          "lives_30d": 1,
+          "views_30d": 0,
+          "rating": 5,
+          "reviews": 4
+        },
+        {
+          "name": "ãROSE ELFãFalse Eyelashes ",
+          "sales_30d": 15001,
+          "sales_1d": 517,
+          "price": 1.63,
+          "gmv_30d": 24482.73,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.6,
+          "reviews": 13
+        },
+        {
+          "name": "ãHigh QualityãDIVA'S LASH ",
+          "sales_30d": 9224,
+          "sales_1d": 900,
+          "price": 1.63,
+          "gmv_30d": 14882.83,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 0,
+          "reviews": 0
+        },
+        {
+          "name": "Skin Brush 14 Sets Makeup Brus",
+          "sales_30d": 9029,
+          "sales_1d": 378,
+          "price": 1.22,
+          "gmv_30d": 11083.66,
+          "videos_30d": 55,
+          "lives_30d": 12,
+          "views_30d": 36671,
+          "rating": 4.5,
+          "reviews": 16334
+        },
+        {
+          "name": "MGL  Big Wooden Stand Mirror 3",
+          "sales_30d": 8301,
+          "sales_1d": 354,
+          "price": 1.1,
+          "gmv_30d": 9746.42,
+          "videos_30d": 89,
+          "lives_30d": 299,
+          "views_30d": 19225,
+          "rating": 4.8,
+          "reviews": 31096
+        },
+        {
+          "name": "HOT  2in1  COD Beginner Studen",
+          "sales_30d": 8220,
+          "sales_1d": 260,
+          "price": 0.97,
+          "gmv_30d": 7883.62,
+          "videos_30d": 58,
+          "lives_30d": 24,
+          "views_30d": 24909,
+          "rating": 4.5,
+          "reviews": 7240
+        },
+        {
+          "name": "ã Free Tweezer ãSunflower ",
+          "sales_30d": 7785,
+          "sales_1d": 323,
+          "price": 1.79,
+          "gmv_30d": 12961.36,
+          "videos_30d": 117,
+          "lives_30d": 32,
+          "views_30d": 46778,
+          "rating": 4.6,
+          "reviews": 3351
+        },
+        {
+          "name": "10 Pcs Mini short handle makeu",
+          "sales_30d": 7491,
+          "sales_1d": 317,
+          "price": 1.71,
+          "gmv_30d": 12158,
+          "videos_30d": 98,
+          "lives_30d": 2,
+          "views_30d": 109095,
+          "rating": 4.7,
+          "reviews": 13629
+        },
+        {
+          "name": "1 Roll Scar Silicone Gel Sheet",
+          "sales_30d": 7078,
+          "sales_1d": 191,
+          "price": 2.79,
+          "gmv_30d": 19687.15,
+          "videos_30d": 14,
+          "lives_30d": 21,
+          "views_30d": 4216,
+          "rating": 4.5,
+          "reviews": 11691
+        }
+      ],
+      "summary": {
+        "top10_sales_30d": 114757,
+        "top10_gmv_30d": 166292.51,
+        "avg_price": 1.45,
+        "total_videos_30d": 679,
+        "total_lives_30d": 401,
+        "total_reviews": 113645,
+        "avg_rating": 4.2
+      }
+    },
+    "SG": {
+      "status": "🟢 有数据",
+      "hot_products": [
+        {
+          "name": "ãWOSADOã Eyelash Culer Bla",
+          "sales_30d": 8844,
+          "sales_1d": 274,
+          "price": 13.3,
+          "gmv_30d": 111121.93,
+          "videos_30d": 1,
+          "lives_30d": 0,
+          "views_30d": 45,
+          "rating": 4.8,
+          "reviews": 196
+        },
+        {
+          "name": "Fake Eyelases Tweezers,makeup ",
+          "sales_30d": 6241,
+          "sales_1d": 224,
+          "price": 3.16,
+          "gmv_30d": 19574.71,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 0,
+          "reviews": 0
+        },
+        {
+          "name": "MAANGE Makeup Brush Set Founda",
+          "sales_30d": 5377,
+          "sales_1d": 205,
+          "price": 16.31,
+          "gmv_30d": 87225.71,
+          "videos_30d": 1,
+          "lives_30d": 0,
+          "views_30d": 31,
+          "rating": 5,
+          "reviews": 3
+        },
+        {
+          "name": "Lishu Makeup Brush Cleaning So",
+          "sales_30d": 2743,
+          "sales_1d": 97,
+          "price": 5.44,
+          "gmv_30d": 14853.25,
+          "videos_30d": 12,
+          "lives_30d": 0,
+          "views_30d": 12365,
+          "rating": 4.7,
+          "reviews": 198
+        },
+        {
+          "name": "3D Nose Contour Makeup Brush E",
+          "sales_30d": 2295,
+          "sales_1d": 63,
+          "price": 2.29,
+          "gmv_30d": 5222.52,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 5,
+          "reviews": 2
+        },
+        {
+          "name": "4PCS Tweezers Set Professional",
+          "sales_30d": 2278,
+          "sales_1d": 70,
+          "price": 3.54,
+          "gmv_30d": 8060.82,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.7,
+          "reviews": 26
+        },
+        {
+          "name": "300 Pieces Of Cotton Circular ",
+          "sales_30d": 1356,
+          "sales_1d": 59,
+          "price": 7.76,
+          "gmv_30d": 8894.52,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.6,
+          "reviews": 13
+        },
+        {
+          "name": "6 Pcs Ear Cleaner Kits Earpick",
+          "sales_30d": 1260,
+          "sales_1d": 42,
+          "price": 1.73,
+          "gmv_30d": 2171.43,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 4.5,
+          "reviews": 10
+        },
+        {
+          "name": "âãWOSADOãMagnetic Eyelas",
+          "sales_30d": 1098,
+          "sales_1d": 0,
+          "price": 31.48,
+          "gmv_30d": 34381.55,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 0,
+          "reviews": 0
+        },
+        {
+          "name": "âãWOSADOãMagnetic Eyelas",
+          "sales_30d": 1051,
+          "sales_1d": 0,
+          "price": 15.7,
+          "gmv_30d": 16404.41,
+          "videos_30d": 0,
+          "lives_30d": 0,
+          "views_30d": 0,
+          "rating": 0,
+          "reviews": 0
+        }
+      ],
+      "summary": {
+        "top10_sales_30d": 32543,
+        "top10_gmv_30d": 307910.85,
+        "avg_price": 9.46,
+        "total_videos_30d": 14,
+        "total_lives_30d": 0,
+        "total_reviews": 448,
+        "avg_rating": 3.3
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "土豆": {
+    "node_id": "node_3676c0125fd3b687",
+    "node_secret": "d4300cfea79e3465ac249beba9c19254bef590012fb3349a2bced7663ade9daa",
+    "claim_url": "https://evomap.ai/claim/YDW5-EN2L",
+    "claim_code": "YDW5-EN2L",
+    "created_at": "2026-05-07T15:07:00+08:00"
+  },
+  "玉米": {
+    "node_id": "node_60bd3d079fb89c9b",
+    "node_secret": "63d8bb00c40d876d4f9741e8b3ff8565085b5eae65c1e22a04b72e2c80cd5b64",
+    "claim_url": "https://evomap.ai/claim/79MW-D7D9",
+    "claim_code": "79MW-D7D9",
+    "created_at": "2026-05-07T15:07:00+08:00"
+  },
+  "番茄": {
+    "node_id": "node_booster_20260507",
+    "claim_code": "PENDING_REGISTRATION",
+    "created_at": "2026-05-07T15:42:00+08:00",
+    "status": "unclaimed",
+    "role": "选品/爆单定价"
+  },
+  "生菜": {
+    "node_id": "node_copy_20260507",
+    "claim_code": "PENDING_REGISTRATION",
+    "created_at": "2026-05-07T15:42:00+08:00",
+    "status": "unclaimed",
+    "role": "文案生成"
+  },
+  "萝卜": {
+    "node_id": "node_live_20260507",
+    "claim_code": "PENDING_REGISTRATION",
+    "created_at": "2026-05-07T15:42:00+08:00",
+    "status": "unclaimed",
+    "role": "配音/直播运营"
+  },
+  "苦瓜": {
+    "node_id": "node_risk_20260507",
+    "claim_code": "PENDING_REGISTRATION",
+    "created_at": "2026-05-07T15:42:00+08:00",
+    "status": "unclaimed",
+    "role": "风控审查"
+  },
+  "豌豆": {
+    "node_id": "node_data_20260507",
+    "claim_code": "PENDING_REGISTRATION",
+    "created_at": "2026-05-07T15:42:00+08:00",
+    "status": "unclaimed",
+    "role": "数据监控"
+  }
+}

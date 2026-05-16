@@ -1,0 +1,18 @@
+{
+  "task_id": "wf_market_check_1778231712",
+  "name": "工作流:market_check",
+  "owner": "orchestrator",
+  "status": "completed",
+  "progress": 100,
+  "current_step": "market_check",
+  "steps": [
+    {
+      "name": "market_check",
+      "status": "completed",
+      "detail": "3/3 success"
+    }
+  ],
+  "errors": [],
+  "created_at": "2026-05-08T17:15:12.643317",
+  "updated_at": "2026-05-08T17:15:12.725834"
+}

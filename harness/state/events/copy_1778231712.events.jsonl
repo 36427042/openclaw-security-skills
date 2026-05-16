@@ -1,0 +1,4 @@
+{"ts": "2026-05-08T17:15:12.467941", "task_id": "copy_1778231712", "type": "task_created", "data": {"name": "🥬生菜·文案", "owner": "copy"}}
+{"ts": "2026-05-08T17:15:12.468100", "task_id": "copy_1778231712", "type": "task_started", "data": {}}
+{"ts": "2026-05-08T17:15:12.472603", "task_id": "copy_1778231712", "type": "step_completed", "data": {"step": "execute", "detail": ""}}
+{"ts": "2026-05-08T17:15:12.472725", "task_id": "copy_1778231712", "type": "task_completed", "data": {}}

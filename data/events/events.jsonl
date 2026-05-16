@@ -1,0 +1,38 @@
+{"timestamp": "2026-05-08T15:28:18.237784+00:00", "category": "system", "name": "startup", "severity": "info", "message": "系统启动", "metadata": {}}
+{"timestamp": "2026-05-08T15:28:18.238012+00:00", "category": "cron", "name": "cron-morning-plan", "severity": "success", "message": "执行成功", "metadata": {}}
+{"timestamp": "2026-05-08T15:28:18.238060+00:00", "category": "cron", "name": "cron-booster-matrix", "severity": "warning", "message": "执行超时", "metadata": {}}
+{"timestamp": "2026-05-08T15:28:18.238098+00:00", "category": "video", "name": "video_pipeline", "severity": "error", "message": "简创API超时", "metadata": {}}
+{"timestamp": "2026-05-08T15:28:18.238169+00:00", "category": "system", "name": "cpu_high", "severity": "warning", "message": "CPU负载过高: 92%", "metadata": {"cpu": 92, "threshold": 80}}
+{"timestamp": "2026-05-08T15:28:18.238203+00:00", "category": "deerflow", "name": "deerflow_down", "severity": "error", "message": "DeerFlow服务不可用", "metadata": {}}
+{"timestamp": "2026-05-08T16:07:42.768258+00:00", "category": "corn", "name": "check-video-pipeline-status", "severity": "success", "message": "视频管线检查完成，所有指标正常", "metadata": {}}
+{"timestamp": "2026-05-09T03:09:20.696819+00:00", "category": "system", "name": "startup", "severity": "info", "message": "系统启动", "metadata": {}}
+{"timestamp": "2026-05-09T03:09:20.696913+00:00", "category": "cron", "name": "cron-morning-plan", "severity": "success", "message": "执行成功", "metadata": {"duration_s": 23}}
+{"timestamp": "2026-05-09T03:09:20.696961+00:00", "category": "cron", "name": "cron-booster-matrix", "severity": "warning", "message": "执行超时", "metadata": {"duration_s": 120, "timeout": 60}}
+{"timestamp": "2026-05-09T03:09:20.696999+00:00", "category": "video", "name": "video_pipeline", "severity": "error", "message": "简创API超时", "metadata": {"timeout": 5}}
+{"timestamp": "2026-05-09T03:09:20.697087+00:00", "category": "partner", "name": "booster-keepalive", "severity": "success", "message": "保活成功", "metadata": {}}
+{"timestamp": "2026-05-09T03:09:20.697123+00:00", "category": "system", "name": "check", "severity": "info", "message": "CPU 2.11, 内存正常, 磁盘2%", "metadata": {}}
+{"timestamp": "2026-05-10T21:36:27.340182+00:00", "category": "system", "name": "startup", "severity": "info", "message": "系统启动", "metadata": {}}
+{"timestamp": "2026-05-10T21:36:27.340250+00:00", "category": "cron", "name": "cron-morning-plan", "severity": "success", "message": "执行成功", "metadata": {"duration_s": 23}}
+{"timestamp": "2026-05-10T21:36:27.340289+00:00", "category": "cron", "name": "cron-booster-matrix", "severity": "warning", "message": "执行超时", "metadata": {"duration_s": 120, "timeout": 60}}
+{"timestamp": "2026-05-10T21:36:27.340319+00:00", "category": "video", "name": "video_pipeline", "severity": "error", "message": "简创API超时", "metadata": {"timeout": 5}}
+{"timestamp": "2026-05-10T21:36:27.340383+00:00", "category": "partner", "name": "booster-keepalive", "severity": "success", "message": "保活成功", "metadata": {}}
+{"timestamp": "2026-05-10T21:36:27.340411+00:00", "category": "system", "name": "check", "severity": "info", "message": "CPU 2.11, 内存正常, 磁盘2%", "metadata": {}}
+{"timestamp": "2026-05-10T21:51:44.074550+00:00", "category": "system", "name": "startup", "severity": "info", "message": "系统启动", "metadata": {}}
+{"timestamp": "2026-05-10T21:51:44.074628+00:00", "category": "cron", "name": "cron-morning-plan", "severity": "success", "message": "执行成功", "metadata": {"duration_s": 23}}
+{"timestamp": "2026-05-10T21:51:44.074670+00:00", "category": "cron", "name": "cron-booster-matrix", "severity": "warning", "message": "执行超时", "metadata": {"duration_s": 120, "timeout": 60}}
+{"timestamp": "2026-05-10T21:51:44.074703+00:00", "category": "video", "name": "video_pipeline", "severity": "error", "message": "简创API超时", "metadata": {"timeout": 5}}
+{"timestamp": "2026-05-10T21:51:44.074770+00:00", "category": "partner", "name": "booster-keepalive", "severity": "success", "message": "保活成功", "metadata": {}}
+{"timestamp": "2026-05-10T21:51:44.074829+00:00", "category": "system", "name": "check", "severity": "info", "message": "CPU 2.11, 内存正常, 磁盘2%", "metadata": {}}
+{"timestamp": "2026-05-13T03:30:56.973494+00:00", "category": "system", "name": "startup", "severity": "info", "message": "系统启动", "metadata": {}}
+{"timestamp": "2026-05-13T03:30:56.973586+00:00", "category": "cron", "name": "cron-morning-plan", "severity": "success", "message": "执行成功", "metadata": {"duration_s": 23}}
+{"timestamp": "2026-05-13T03:30:56.973634+00:00", "category": "cron", "name": "cron-booster-matrix", "severity": "warning", "message": "执行超时", "metadata": {"duration_s": 120, "timeout": 60}}
+{"timestamp": "2026-05-13T03:30:56.973688+00:00", "category": "video", "name": "video_pipeline", "severity": "error", "message": "简创API超时", "metadata": {"timeout": 5}}
+{"timestamp": "2026-05-13T03:30:56.973791+00:00", "category": "partner", "name": "booster-keepalive", "severity": "success", "message": "保活成功", "metadata": {}}
+{"timestamp": "2026-05-13T03:30:56.973835+00:00", "category": "system", "name": "check", "severity": "info", "message": "CPU 2.11, 内存正常, 磁盘2%", "metadata": {}}
+{"timestamp": "2026-05-15T05:04:21.823958+00:00", "category": "system", "name": "startup", "severity": "info", "message": "系统启动", "metadata": {}}
+{"timestamp": "2026-05-15T05:04:21.824073+00:00", "category": "cron", "name": "cron-morning-plan", "severity": "success", "message": "执行成功", "metadata": {"duration_s": 23}}
+{"timestamp": "2026-05-15T05:04:21.824148+00:00", "category": "cron", "name": "cron-booster-matrix", "severity": "warning", "message": "执行超时", "metadata": {"duration_s": 120, "timeout": 60}}
+{"timestamp": "2026-05-15T05:04:21.824196+00:00", "category": "video", "name": "video_pipeline", "severity": "error", "message": "简创API超时", "metadata": {"timeout": 5}}
+{"timestamp": "2026-05-15T05:04:21.824299+00:00", "category": "partner", "name": "booster-keepalive", "severity": "success", "message": "保活成功", "metadata": {}}
+{"timestamp": "2026-05-15T05:04:21.824340+00:00", "category": "system", "name": "check", "severity": "info", "message": "CPU 2.11, 内存正常, 磁盘2%", "metadata": {}}
+{"timestamp":"2026-05-15T20:01:31","category":"cron","name":"hermes-30min-progress","severity":"info","message":"04:00巡检 — 系统稳定，凌晨静默，无新变化","metadata":{"uptime":"6d5h","cpu":"2.81/3.14/3.14","disk":"746Gi","gateway_pid":79494}}

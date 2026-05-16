@@ -1,0 +1,2073 @@
+{
+  "generated_at": "2026-05-13 23:35",
+  "matrix_25stores": {
+    "DAZZLE ME Get a Grip": {
+      "cost_rmb": 4.01,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.01,
+          "local_price": 23.26,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.01,
+          "local_price": 24.86,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.01,
+          "local_price": 24.06,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.01,
+          "local_price": 22.05,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 4.01,
+          "local_price": 22.05,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 4.01,
+          "local_price": 26.06,
+          "currency": "SGD",
+          "profit_margin": 549.9,
+          "status": "⚠️"
+        }
+      }
+    },
+    "[Special] DAZZLE ME ": {
+      "cost_rmb": 11.55,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 11.55,
+          "local_price": 66.99,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 11.55,
+          "local_price": 71.61,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 11.55,
+          "local_price": 69.3,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 11.55,
+          "local_price": 63.53,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 11.55,
+          "local_price": 63.53,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 11.55,
+          "local_price": 75.08,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[1+1] DAZZLE ME Get ": {
+      "cost_rmb": 7.66,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 7.66,
+          "local_price": 44.43,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 7.66,
+          "local_price": 47.49,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 7.66,
+          "local_price": 45.96,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 7.66,
+          "local_price": 42.13,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 7.66,
+          "local_price": 42.13,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 7.66,
+          "local_price": 49.79,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[Live] DAZZLE ME Get": {
+      "cost_rmb": 6.44,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 6.44,
+          "local_price": 37.35,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 6.44,
+          "local_price": 39.93,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 6.44,
+          "local_price": 38.64,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 6.44,
+          "local_price": 35.42,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 6.44,
+          "local_price": 35.42,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 6.44,
+          "local_price": 41.86,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "DAZZLE ME Better Cov": {
+      "cost_rmb": 8.88,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 8.88,
+          "local_price": 51.5,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 8.88,
+          "local_price": 55.06,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 8.88,
+          "local_price": 53.28,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 8.88,
+          "local_price": 48.84,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 8.88,
+          "local_price": 48.84,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 8.88,
+          "local_price": 57.72,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Dazzle Me Get A Grip": {
+      "cost_rmb": 3.85,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 3.85,
+          "local_price": 22.33,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 3.85,
+          "local_price": 23.87,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 3.85,
+          "local_price": 23.1,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 3.85,
+          "local_price": 21.18,
+          "currency": "IDR",
+          "profit_margin": 450.1,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 3.85,
+          "local_price": 21.18,
+          "currency": "PHP",
+          "profit_margin": 450.1,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 3.85,
+          "local_price": 25.03,
+          "currency": "SGD",
+          "profit_margin": 550.1,
+          "status": "✅"
+        }
+      }
+    },
+    "DAZZLE ME Double Loc": {
+      "cost_rmb": 11.55,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 11.55,
+          "local_price": 66.99,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 11.55,
+          "local_price": 71.61,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 11.55,
+          "local_price": 69.3,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 11.55,
+          "local_price": 63.53,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 11.55,
+          "local_price": 63.53,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 11.55,
+          "local_price": 75.08,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "DAZZLE ME Best Selle": {
+      "cost_rmb": 11.27,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 11.27,
+          "local_price": 65.37,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 11.27,
+          "local_price": 69.87,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 11.27,
+          "local_price": 67.62,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 11.27,
+          "local_price": 61.98,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 11.27,
+          "local_price": 61.98,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 11.27,
+          "local_price": 73.25,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[SET Setting Spray 3": {
+      "cost_rmb": 12.03,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 12.03,
+          "local_price": 69.77,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 12.03,
+          "local_price": 74.59,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 12.03,
+          "local_price": 72.18,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 12.03,
+          "local_price": 66.16,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 12.03,
+          "local_price": 66.16,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 12.03,
+          "local_price": 78.19,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[ACNE SERIES SET] DA": {
+      "cost_rmb": 9.69,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 9.69,
+          "local_price": 56.2,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 9.69,
+          "local_price": 60.08,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 9.69,
+          "local_price": 58.14,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 9.69,
+          "local_price": 53.29,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 9.69,
+          "local_price": 53.29,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 9.69,
+          "local_price": 62.98,
+          "currency": "SGD",
+          "profit_margin": 549.9,
+          "status": "⚠️"
+        }
+      }
+    },
+    "DAZZLE ME Sun UV Pro": {
+      "cost_rmb": 16.82,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 16.82,
+          "local_price": 97.56,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 16.82,
+          "local_price": 104.28,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 16.82,
+          "local_price": 100.92,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 16.82,
+          "local_price": 92.51,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 16.82,
+          "local_price": 92.51,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 16.82,
+          "local_price": 109.33,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[Exclusive Tiffany L": {
+      "cost_rmb": 19.34,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 19.34,
+          "local_price": 112.17,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 19.34,
+          "local_price": 119.91,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 19.34,
+          "local_price": 116.04,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 19.34,
+          "local_price": 106.37,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 19.34,
+          "local_price": 106.37,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 19.34,
+          "local_price": 125.71,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Pramy Moisturizing M": {
+      "cost_rmb": 10.9,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 10.9,
+          "local_price": 63.22,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 10.9,
+          "local_price": 67.58,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 10.9,
+          "local_price": 65.4,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 10.9,
+          "local_price": 59.95,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 10.9,
+          "local_price": 59.95,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 10.9,
+          "local_price": 70.85,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "【Makeup remover】Glad": {
+      "cost_rmb": 3.02,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 3.02,
+          "local_price": 17.52,
+          "currency": "THB",
+          "profit_margin": 480.1,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 3.02,
+          "local_price": 18.72,
+          "currency": "MYR",
+          "profit_margin": 519.9,
+          "status": "⚠️"
+        },
+        "VN": {
+          "cost_rmb": 3.02,
+          "local_price": 18.12,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 3.02,
+          "local_price": 16.61,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 3.02,
+          "local_price": 16.61,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 3.02,
+          "local_price": 19.63,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "จอห์นสัน เบบี้ เช็ดเ": {
+      "cost_rmb": 4.41,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.41,
+          "local_price": 25.58,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.41,
+          "local_price": 27.34,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.41,
+          "local_price": 26.46,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.41,
+          "local_price": 24.26,
+          "currency": "IDR",
+          "profit_margin": 450.1,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 4.41,
+          "local_price": 24.26,
+          "currency": "PHP",
+          "profit_margin": 450.1,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 4.41,
+          "local_price": 28.66,
+          "currency": "SGD",
+          "profit_margin": 549.9,
+          "status": "⚠️"
+        }
+      }
+    },
+    "[NEW]Pramy Makeup Ar": {
+      "cost_rmb": 12.12,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 12.12,
+          "local_price": 70.3,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 12.12,
+          "local_price": 75.14,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 12.12,
+          "local_price": 72.72,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 12.12,
+          "local_price": 66.66,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 12.12,
+          "local_price": 66.66,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 12.12,
+          "local_price": 78.78,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[KOL]Pramy Moisturiz": {
+      "cost_rmb": 6.03,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 6.03,
+          "local_price": 34.97,
+          "currency": "THB",
+          "profit_margin": 479.9,
+          "status": "⚠️"
+        },
+        "MY": {
+          "cost_rmb": 6.03,
+          "local_price": 37.39,
+          "currency": "MYR",
+          "profit_margin": 520.1,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 6.03,
+          "local_price": 36.18,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 6.03,
+          "local_price": 33.16,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 6.03,
+          "local_price": 33.16,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 6.03,
+          "local_price": 39.2,
+          "currency": "SGD",
+          "profit_margin": 550.1,
+          "status": "✅"
+        }
+      }
+    },
+    "[Special Bundle]PRAM": {
+      "cost_rmb": 11.51,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 11.51,
+          "local_price": 66.76,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 11.51,
+          "local_price": 71.36,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 11.51,
+          "local_price": 69.06,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 11.51,
+          "local_price": 63.3,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 11.51,
+          "local_price": 63.3,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 11.51,
+          "local_price": 74.81,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[SP] Pramy Moisturiz": {
+      "cost_rmb": 6.03,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 6.03,
+          "local_price": 34.97,
+          "currency": "THB",
+          "profit_margin": 479.9,
+          "status": "⚠️"
+        },
+        "MY": {
+          "cost_rmb": 6.03,
+          "local_price": 37.39,
+          "currency": "MYR",
+          "profit_margin": 520.1,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 6.03,
+          "local_price": 36.18,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 6.03,
+          "local_price": 33.16,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 6.03,
+          "local_price": 33.16,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 6.03,
+          "local_price": 39.2,
+          "currency": "SGD",
+          "profit_margin": 550.1,
+          "status": "✅"
+        }
+      }
+    },
+    "[KOL]Pramy Makeup Ar": {
+      "cost_rmb": 12.12,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 12.12,
+          "local_price": 70.3,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 12.12,
+          "local_price": 75.14,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 12.12,
+          "local_price": 72.72,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 12.12,
+          "local_price": 66.66,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 12.12,
+          "local_price": 66.66,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 12.12,
+          "local_price": 78.78,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[BCD] คอมฟอร์ท บิวตี": {
+      "cost_rmb": 4.88,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.88,
+          "local_price": 28.3,
+          "currency": "THB",
+          "profit_margin": 479.9,
+          "status": "⚠️"
+        },
+        "MY": {
+          "cost_rmb": 4.88,
+          "local_price": 30.26,
+          "currency": "MYR",
+          "profit_margin": 520.1,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.88,
+          "local_price": 29.28,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.88,
+          "local_price": 26.84,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 4.88,
+          "local_price": 26.84,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 4.88,
+          "local_price": 31.72,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Oriental Princess คร": {
+      "cost_rmb": 4.62,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.62,
+          "local_price": 26.8,
+          "currency": "THB",
+          "profit_margin": 480.1,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.62,
+          "local_price": 28.64,
+          "currency": "MYR",
+          "profit_margin": 519.9,
+          "status": "⚠️"
+        },
+        "VN": {
+          "cost_rmb": 4.62,
+          "local_price": 27.72,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.62,
+          "local_price": 25.41,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 4.62,
+          "local_price": 25.41,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 4.62,
+          "local_price": 30.03,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Oriental Beauty Body": {
+      "cost_rmb": 4.59,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.59,
+          "local_price": 26.62,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.59,
+          "local_price": 28.46,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.59,
+          "local_price": 27.54,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.59,
+          "local_price": 25.24,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 4.59,
+          "local_price": 25.24,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 4.59,
+          "local_price": 29.84,
+          "currency": "SGD",
+          "profit_margin": 550.1,
+          "status": "✅"
+        }
+      }
+    },
+    "แป้งพัฟสุรีย์พร 199 ": {
+      "cost_rmb": 8.06,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 8.06,
+          "local_price": 46.75,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 8.06,
+          "local_price": 49.97,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 8.06,
+          "local_price": 48.36,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 8.06,
+          "local_price": 44.33,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 8.06,
+          "local_price": 44.33,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 8.06,
+          "local_price": 52.39,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "PALA รองพื้น กันน้ำ ": {
+      "cost_rmb": 4.82,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.82,
+          "local_price": 27.96,
+          "currency": "THB",
+          "profit_margin": 480.1,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.82,
+          "local_price": 29.88,
+          "currency": "MYR",
+          "profit_margin": 519.9,
+          "status": "⚠️"
+        },
+        "VN": {
+          "cost_rmb": 4.82,
+          "local_price": 28.92,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.82,
+          "local_price": 26.51,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 4.82,
+          "local_price": 26.51,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 4.82,
+          "local_price": 31.33,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "MELYNN - Airy Glossy": {
+      "cost_rmb": 4.01,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.01,
+          "local_price": 23.26,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.01,
+          "local_price": 24.86,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.01,
+          "local_price": 24.06,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.01,
+          "local_price": 22.05,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 4.01,
+          "local_price": 22.05,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 4.01,
+          "local_price": 26.06,
+          "currency": "SGD",
+          "profit_margin": 549.9,
+          "status": "⚠️"
+        }
+      }
+    },
+    "ลิป จัมโบ้ แมท มักเน": {
+      "cost_rmb": 3.6,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 3.6,
+          "local_price": 20.88,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 3.6,
+          "local_price": 22.32,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 3.6,
+          "local_price": 21.6,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 3.6,
+          "local_price": 19.8,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 3.6,
+          "local_price": 19.8,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 3.6,
+          "local_price": 23.4,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "GLAD2GLOW Perfect Co": {
+      "cost_rmb": 8.88,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 8.88,
+          "local_price": 51.5,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 8.88,
+          "local_price": 55.06,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 8.88,
+          "local_price": 53.28,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 8.88,
+          "local_price": 48.84,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 8.88,
+          "local_price": 48.84,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 8.88,
+          "local_price": 57.72,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "【BEST SELLER】GMEELAN": {
+      "cost_rmb": 7.34,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 7.34,
+          "local_price": 42.57,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 7.34,
+          "local_price": 45.51,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 7.34,
+          "local_price": 44.04,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 7.34,
+          "local_price": 40.37,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 7.34,
+          "local_price": 40.37,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 7.34,
+          "local_price": 47.71,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Sea Makeup Lock It M": {
+      "cost_rmb": 6.77,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 6.77,
+          "local_price": 39.27,
+          "currency": "THB",
+          "profit_margin": 480.1,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 6.77,
+          "local_price": 41.97,
+          "currency": "MYR",
+          "profit_margin": 519.9,
+          "status": "⚠️"
+        },
+        "VN": {
+          "cost_rmb": 6.77,
+          "local_price": 40.62,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 6.77,
+          "local_price": 37.23,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 6.77,
+          "local_price": 37.23,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 6.77,
+          "local_price": 44.0,
+          "currency": "SGD",
+          "profit_margin": 549.9,
+          "status": "⚠️"
+        }
+      }
+    },
+    "[LIVE] The Originote": {
+      "cost_rmb": 4.94,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.94,
+          "local_price": 28.65,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 4.94,
+          "local_price": 30.63,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.94,
+          "local_price": 29.64,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.94,
+          "local_price": 27.17,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 4.94,
+          "local_price": 27.17,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 4.94,
+          "local_price": 32.11,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Sea Makeup Stayput P": {
+      "cost_rmb": 8.18,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 8.18,
+          "local_price": 47.44,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 8.18,
+          "local_price": 50.72,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 8.18,
+          "local_price": 49.08,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 8.18,
+          "local_price": 44.99,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 8.18,
+          "local_price": 44.99,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 8.18,
+          "local_price": 53.17,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[CLEARANCE | EXP OCT": {
+      "cost_rmb": 11.01,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 11.01,
+          "local_price": 63.86,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 11.01,
+          "local_price": 68.26,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 11.01,
+          "local_price": 66.06,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 11.01,
+          "local_price": 60.55,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 11.01,
+          "local_price": 60.55,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 11.01,
+          "local_price": 71.56,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[LESSXCOCO]Waterproo": {
+      "cost_rmb": 3.63,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 3.63,
+          "local_price": 21.05,
+          "currency": "THB",
+          "profit_margin": 479.9,
+          "status": "⚠️"
+        },
+        "MY": {
+          "cost_rmb": 3.63,
+          "local_price": 22.51,
+          "currency": "MYR",
+          "profit_margin": 520.1,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 3.63,
+          "local_price": 21.78,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 3.63,
+          "local_price": 19.96,
+          "currency": "IDR",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "PH": {
+          "cost_rmb": 3.63,
+          "local_price": 19.96,
+          "currency": "PHP",
+          "profit_margin": 449.9,
+          "status": "⚠️"
+        },
+        "SG": {
+          "cost_rmb": 3.63,
+          "local_price": 23.59,
+          "currency": "SGD",
+          "profit_margin": 549.9,
+          "status": "⚠️"
+        }
+      }
+    },
+    "Hanasui Tintdorable ": {
+      "cost_rmb": 3.44,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 3.44,
+          "local_price": 19.95,
+          "currency": "THB",
+          "profit_margin": 479.9,
+          "status": "⚠️"
+        },
+        "MY": {
+          "cost_rmb": 3.44,
+          "local_price": 21.33,
+          "currency": "MYR",
+          "profit_margin": 520.1,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 3.44,
+          "local_price": 20.64,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 3.44,
+          "local_price": 18.92,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 3.44,
+          "local_price": 18.92,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 3.44,
+          "local_price": 22.36,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "SKINTIFIC TWC Blue U": {
+      "cost_rmb": 15.02,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 15.02,
+          "local_price": 87.12,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 15.02,
+          "local_price": 93.12,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 15.02,
+          "local_price": 90.12,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 15.02,
+          "local_price": 82.61,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 15.02,
+          "local_price": 82.61,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 15.02,
+          "local_price": 97.63,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Hanasui Mattedorable": {
+      "cost_rmb": 4.78,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 4.78,
+          "local_price": 27.72,
+          "currency": "THB",
+          "profit_margin": 479.9,
+          "status": "⚠️"
+        },
+        "MY": {
+          "cost_rmb": 4.78,
+          "local_price": 29.64,
+          "currency": "MYR",
+          "profit_margin": 520.1,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 4.78,
+          "local_price": 28.68,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 4.78,
+          "local_price": 26.29,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 4.78,
+          "local_price": 26.29,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 4.78,
+          "local_price": 31.07,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Panna Lab Lipbies Li": {
+      "cost_rmb": 6.02,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 6.02,
+          "local_price": 34.92,
+          "currency": "THB",
+          "profit_margin": 480.1,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 6.02,
+          "local_price": 37.32,
+          "currency": "MYR",
+          "profit_margin": 519.9,
+          "status": "⚠️"
+        },
+        "VN": {
+          "cost_rmb": 6.02,
+          "local_price": 36.12,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 6.02,
+          "local_price": 33.11,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 6.02,
+          "local_price": 33.11,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 6.02,
+          "local_price": 39.13,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[Salju Beauty] Found": {
+      "cost_rmb": 6.3,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 6.3,
+          "local_price": 36.54,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 6.3,
+          "local_price": 39.06,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 6.3,
+          "local_price": 37.8,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 6.3,
+          "local_price": 34.65,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 6.3,
+          "local_price": 34.65,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 6.3,
+          "local_price": 40.95,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "KOPI TINA BEAUTY 15 ": {
+      "cost_rmb": 8.68,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 8.68,
+          "local_price": 50.34,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 8.68,
+          "local_price": 53.82,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 8.68,
+          "local_price": 52.08,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 8.68,
+          "local_price": 47.74,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 8.68,
+          "local_price": 47.74,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 8.68,
+          "local_price": 56.42,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "【Mix Combo】 Bulu Mat": {
+      "cost_rmb": 8.64,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 8.64,
+          "local_price": 50.11,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 8.64,
+          "local_price": 53.57,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 8.64,
+          "local_price": 51.84,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 8.64,
+          "local_price": 47.52,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 8.64,
+          "local_price": 47.52,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 8.64,
+          "local_price": 56.16,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "50pcs WHITE SPAN Spo": {
+      "cost_rmb": 9.86,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 9.86,
+          "local_price": 57.19,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 9.86,
+          "local_price": 61.13,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 9.86,
+          "local_price": 59.16,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 9.86,
+          "local_price": 54.23,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 9.86,
+          "local_price": 54.23,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 9.86,
+          "local_price": 64.09,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "Combo 2 Bigsize - Nư": {
+      "cost_rmb": 16.36,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 16.36,
+          "local_price": 94.89,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 16.36,
+          "local_price": 101.43,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 16.36,
+          "local_price": 98.16,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 16.36,
+          "local_price": 89.98,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 16.36,
+          "local_price": 89.98,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 16.36,
+          "local_price": 106.34,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    },
+    "[TOP] SKINTIFIC Flaw": {
+      "cost_rmb": 7.06,
+      "pricing": {
+        "TH": {
+          "cost_rmb": 7.06,
+          "local_price": 40.95,
+          "currency": "THB",
+          "profit_margin": 480.0,
+          "status": "✅"
+        },
+        "MY": {
+          "cost_rmb": 7.06,
+          "local_price": 43.77,
+          "currency": "MYR",
+          "profit_margin": 520.0,
+          "status": "✅"
+        },
+        "VN": {
+          "cost_rmb": 7.06,
+          "local_price": 42.36,
+          "currency": "VND",
+          "profit_margin": 500.0,
+          "status": "✅"
+        },
+        "ID": {
+          "cost_rmb": 7.06,
+          "local_price": 38.83,
+          "currency": "IDR",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "PH": {
+          "cost_rmb": 7.06,
+          "local_price": 38.83,
+          "currency": "PHP",
+          "profit_margin": 450.0,
+          "status": "✅"
+        },
+        "SG": {
+          "cost_rmb": 7.06,
+          "local_price": 45.89,
+          "currency": "SGD",
+          "profit_margin": 550.0,
+          "status": "✅"
+        }
+      }
+    }
+  }
+}

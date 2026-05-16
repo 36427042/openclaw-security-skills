@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-05-13T07:30:00+08:00",
+  "type": "hermes_hourly_summary",
+  "hour": 7,
+  "day": "2026-05-13",
+  "status": {
+    "overall": "healthy",
+    "uptime": "3d 8h 37m",
+    "cpu_load": "3.35/2.21/2.10",
+    "disk": "759Gi free (2%)",
+    "memory_gb_total": 24,
+    "memory_free_pct": 61
+  },
+  "services": {
+    "openclaw_gateway": "running",
+    "deerflow_port_8001": "running",
+    "hermes_framework": "not_deployed",
+    "evomap_hub": "offline_no_credits"
+  },
+  "partners": {
+    "total": 6,
+    "alive": 6,
+    "gep_nodes": 1211,
+    "gep_success_rate": "89.3%"
+  },
+  "today_events": [
+    "07:00-07:30 — 安静期，无新任务",
+    "07:30 — Hermes进度巡检+飞书推送完成"
+  ],
+  "blockers": [
+    "🔴 FRAMEWORK.md 未创建 — Hermes/DeerFlow/EvoMap 三位一体框架未部署",
+    "🔴 hermes_engine.py 不存在 — 框架调度引擎为空",
+    "🟡 EvoMap 离线 — credit_balance=0, 需质押后恢复",
+    "🟡 Hermes→DeerFlow 融合修复待天赐确认"
+  ],
+  "delivery": "feishu ✅"
+}

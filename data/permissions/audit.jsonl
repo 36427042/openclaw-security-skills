@@ -1,0 +1,6 @@
+{"tool": "partner_booster", "user": "booster", "action": "allowed", "level": "auto", "reason": "自动放行", "created_at": "2026-05-08T15:14:09.669377+00:00"}
+{"tool": "partner_risk", "user": "lettuce", "action": "allowed", "level": "notify", "reason": "执行后通知", "created_at": "2026-05-08T15:14:09.669461+00:00"}
+{"tool": "partner_risk", "user": "bittergourd", "action": "allowed", "level": "notify", "reason": "执行后通知", "created_at": "2026-05-08T15:14:09.669498+00:00"}
+{"tool": "partner_risk", "user": "booster", "action": "allowed", "level": "notify", "reason": "执行后通知", "created_at": "2026-05-08T15:15:25.949167+00:00"}
+{"tool": "partner_risk", "user": "bittergourd", "action": "allowed", "level": "notify", "reason": "执行后通知", "created_at": "2026-05-08T15:15:26.000069+00:00"}
+{"tool": "苦瓜", "user": "review_all", "action": "allowed", "level": "auto", "reason": "自动放行", "created_at": "2026-05-08T15:57:55.816954+00:00"}

@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-05-16T07:59:58.091810+00:00",
+  "results": {
+    "土豆": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Read timed out. (read timeout=10)"
+    },
+    "番茄": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Read timed out. (read timeout=10)"
+    },
+    "生菜": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Max retries exceeded with url: /a2a/heartbeat (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    },
+    "玉米": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Max retries exceeded with url: /a2a/heartbeat (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    },
+    "萝卜": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Max retries exceeded with url: /a2a/heartbeat (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    },
+    "苦瓜": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Max retries exceeded with url: /a2a/heartbeat (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    },
+    "豌豆": {
+      "status": "error",
+      "message": "HTTPSConnectionPool(host='evomap.ai', port=443): Max retries exceeded with url: /a2a/heartbeat (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+    }
+  }
+}

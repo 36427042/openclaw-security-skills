@@ -1,0 +1,12 @@
+{"ts": "2026-05-07T13:17:57.082305", "task_id": "copy_1778131077", "type": "task_created", "data": {"name": "🥬 生菜·文案生成", "owner": "copy"}}
+{"ts": "2026-05-07T13:17:57.082698", "task_id": "copy_1778131077", "type": "task_started", "data": {"step_count": 4, "context": null}}
+{"ts": "2026-05-07T13:17:57.082892", "task_id": "copy_1778131077", "type": "step_started", "data": {"step": "加载违禁词库", "index": 1, "total": 4}}
+{"ts": "2026-05-07T13:17:57.108268", "task_id": "copy_1778131077", "type": "script_executed", "data": {"script": "copy_engine.py", "returncode": 0, "stdout_len": 0, "stderr_len": 0}}
+{"ts": "2026-05-07T13:17:57.108634", "task_id": "copy_1778131077", "type": "step_completed", "data": {"step": "加载违禁词库", "result": "{'script': 'copy_engine.py', 'output': ''}"}}
+{"ts": "2026-05-07T13:17:57.108842", "task_id": "copy_1778131077", "type": "step_started", "data": {"step": "生成5国话术", "index": 2, "total": 4}}
+{"ts": "2026-05-07T13:17:57.109078", "task_id": "copy_1778131077", "type": "step_completed", "data": {"step": "生成5国话术", "result": "{'msg': '话术已生成'}"}}
+{"ts": "2026-05-07T13:17:57.109252", "task_id": "copy_1778131077", "type": "step_started", "data": {"step": "合规校验", "index": 3, "total": 4}}
+{"ts": "2026-05-07T13:17:57.109430", "task_id": "copy_1778131077", "type": "step_completed", "data": {"step": "合规校验", "result": "{'msg': '校验通过'}"}}
+{"ts": "2026-05-07T13:17:57.109586", "task_id": "copy_1778131077", "type": "step_started", "data": {"step": "导出CSV", "index": 4, "total": 4}}
+{"ts": "2026-05-07T13:17:57.109808", "task_id": "copy_1778131077", "type": "step_completed", "data": {"step": "导出CSV", "result": "{'msg': 'CSV已导出'}"}}
+{"ts": "2026-05-07T13:17:57.109963", "task_id": "copy_1778131077", "type": "task_completed", "data": {}}

@@ -1,0 +1,12 @@
+{"ts": "2026-05-07T13:17:47.595592", "task_id": "booster_1778131067", "type": "task_created", "data": {"name": "🍅 番茄·爆单矩阵", "owner": "booster"}}
+{"ts": "2026-05-07T13:17:47.595917", "task_id": "booster_1778131067", "type": "task_started", "data": {"step_count": 4, "context": null}}
+{"ts": "2026-05-07T13:17:47.596085", "task_id": "booster_1778131067", "type": "step_started", "data": {"step": "读取历史数据", "index": 1, "total": 4}}
+{"ts": "2026-05-07T13:17:47.618424", "task_id": "booster_1778131067", "type": "script_executed", "data": {"script": "booster_matrix.py", "returncode": 0, "stdout_len": 1244, "stderr_len": 0}}
+{"ts": "2026-05-07T13:17:47.618763", "task_id": "booster_1778131067", "type": "step_completed", "data": {"step": "读取历史数据", "result": "{'script': 'booster_matrix.py', 'output': '5-07 13:17:47]     MY: 13.64 MYR | 利润率520.0%\\n  [2026-05-07 13:17:47]     VN: 13.2 VND | 利润率500.0%\\n  [2026-05-07 13:17:47]     ID: 12.1 IDR | 利润率450.0%\\n  ["}}
+{"ts": "2026-05-07T13:17:47.618964", "task_id": "booster_1778131067", "type": "step_started", "data": {"step": "计算5国定价", "index": 2, "total": 4}}
+{"ts": "2026-05-07T13:17:47.619135", "task_id": "booster_1778131067", "type": "step_completed", "data": {"step": "计算5国定价", "result": "{'msg': '定价已完成'}"}}
+{"ts": "2026-05-07T13:17:47.619289", "task_id": "booster_1778131067", "type": "step_started", "data": {"step": "生成定价报告", "index": 3, "total": 4}}
+{"ts": "2026-05-07T13:17:47.619449", "task_id": "booster_1778131067", "type": "step_completed", "data": {"step": "生成定价报告", "result": "{'msg': '报告已输出'}"}}
+{"ts": "2026-05-07T13:17:47.619621", "task_id": "booster_1778131067", "type": "step_started", "data": {"step": "推送飞书", "index": 4, "total": 4}}
+{"ts": "2026-05-07T13:17:47.619809", "task_id": "booster_1778131067", "type": "step_completed", "data": {"step": "推送飞书", "result": "{'msg': '飞书推送完成'}"}}
+{"ts": "2026-05-07T13:17:47.619961", "task_id": "booster_1778131067", "type": "task_completed", "data": {}}

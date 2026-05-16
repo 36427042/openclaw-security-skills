@@ -1,0 +1,17 @@
+{
+  "id": "16c4a556-575",
+  "name": "test_task",
+  "status": "completed",
+  "partner": "booster",
+  "created_at": "2026-05-10T21:51:44.134633+00:00",
+  "started_at": "2026-05-10T21:51:44.134916+00:00",
+  "completed_at": "2026-05-10T21:51:44.240042+00:00",
+  "result": {
+    "processed": 42
+  },
+  "error": "",
+  "metadata": {
+    "n": 42
+  },
+  "duration_s": 0.105126
+}

@@ -1,0 +1,18 @@
+{
+  "task_id": "data_1778231181",
+  "name": "🫘豌豆·数据",
+  "owner": "data",
+  "status": "completed",
+  "progress": 100,
+  "current_step": "execute",
+  "steps": [
+    {
+      "name": "execute",
+      "status": "completed",
+      "detail": "  📊 [2026-05-08 17:06:21] ========================================\n  📊 [2026-05-08 17:06:21] 🫘 数据监控启"
+    }
+  ],
+  "errors": [],
+  "created_at": "2026-05-08T17:06:21.141901",
+  "updated_at": "2026-05-08T17:06:21.186689"
+}

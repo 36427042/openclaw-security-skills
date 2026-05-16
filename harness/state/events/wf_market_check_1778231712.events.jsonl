@@ -1,0 +1,4 @@
+{"ts": "2026-05-08T17:15:12.643464", "task_id": "wf_market_check_1778231712", "type": "task_created", "data": {"name": "工作流:market_check", "owner": "orchestrator"}}
+{"ts": "2026-05-08T17:15:12.643630", "task_id": "wf_market_check_1778231712", "type": "task_started", "data": {}}
+{"ts": "2026-05-08T17:15:12.725707", "task_id": "wf_market_check_1778231712", "type": "step_completed", "data": {"step": "market_check", "detail": "3/3 success"}}
+{"ts": "2026-05-08T17:15:12.725910", "task_id": "wf_market_check_1778231712", "type": "task_completed", "data": {}}

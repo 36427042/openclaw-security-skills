@@ -1,0 +1,12 @@
+{"ts": "2026-05-07T13:17:57.169889", "task_id": "test_1778131077", "type": "task_created", "data": {"name": "🧪 错误恢复测试", "owner": "test"}}
+{"ts": "2026-05-07T13:17:57.170309", "task_id": "test_1778131077", "type": "task_started", "data": {"step_count": 1, "context": null}}
+{"ts": "2026-05-07T13:17:57.170497", "task_id": "test_1778131077", "type": "step_started", "data": {"step": "失败步骤", "index": 1, "total": 1}}
+{"ts": "2026-05-07T13:17:57.171069", "task_id": "test_1778131077", "type": "step_failed", "data": {"step": "失败步骤", "error": "模拟网络错误"}}
+{"ts": "2026-05-07T13:17:57.171112", "task_id": "test_1778131077", "type": "task_resumed", "data": {"reason": "resume_requested"}}
+{"ts": "2026-05-07T13:17:57.171215", "task_id": "test_1778131077", "type": "resume_plan", "data": {"completed": [], "failed": ["失败步骤"], "remaining": ["失败步骤", "恢复验证"]}}
+{"ts": "2026-05-07T13:17:57.171405", "task_id": "test_1778131077", "type": "task_started", "data": {"step_count": 2, "context": null}}
+{"ts": "2026-05-07T13:17:57.171581", "task_id": "test_1778131077", "type": "step_started", "data": {"step": "失败步骤", "index": 1, "total": 2}}
+{"ts": "2026-05-07T13:17:57.171742", "task_id": "test_1778131077", "type": "step_completed", "data": {"step": "失败步骤", "result": "{'msg': '恢复成功!'}"}}
+{"ts": "2026-05-07T13:17:57.171927", "task_id": "test_1778131077", "type": "step_started", "data": {"step": "恢复验证", "index": 2, "total": 2}}
+{"ts": "2026-05-07T13:17:57.172149", "task_id": "test_1778131077", "type": "step_completed", "data": {"step": "恢复验证", "result": "{'msg': '全部通过!'}"}}
+{"ts": "2026-05-07T13:17:57.172359", "task_id": "test_1778131077", "type": "task_completed", "data": {}}

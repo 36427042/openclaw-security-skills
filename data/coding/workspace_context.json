@@ -1,0 +1,479 @@
+{
+  "timestamp": "2026-05-08T16:07:38.391578+00:00",
+  "scripts": [
+    {
+      "name": "booster_matrix.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/booster_matrix.py",
+      "ext": ".py",
+      "lines": 112,
+      "size": 3687
+    },
+    {
+      "name": "copy_engine.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/copy_engine.py",
+      "ext": ".py",
+      "lines": 134,
+      "size": 4591
+    },
+    {
+      "name": "data_monitor.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/data_monitor.py",
+      "ext": ".py",
+      "lines": 131,
+      "size": 4003
+    },
+    {
+      "name": "gep_adapter.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/gep_adapter.py",
+      "ext": ".py",
+      "lines": 160,
+      "size": 4985
+    },
+    {
+      "name": "gep_engine.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/gep_engine.py",
+      "ext": ".py",
+      "lines": 533,
+      "size": 16737
+    },
+    {
+      "name": "hermes_coding.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_coding.py",
+      "ext": ".py",
+      "lines": 618,
+      "size": 20772
+    },
+    {
+      "name": "hermes_compact.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_compact.py",
+      "ext": ".py",
+      "lines": 293,
+      "size": 9741
+    },
+    {
+      "name": "hermes_engine.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_engine.py",
+      "ext": ".py",
+      "lines": 1257,
+      "size": 50104
+    },
+    {
+      "name": "hermes_enhanced.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_enhanced.py",
+      "ext": ".py",
+      "lines": 92,
+      "size": 2548
+    },
+    {
+      "name": "hermes_flags.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_flags.py",
+      "ext": ".py",
+      "lines": 296,
+      "size": 9337
+    },
+    {
+      "name": "hermes_fusion.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_fusion.py",
+      "ext": ".py",
+      "lines": 424,
+      "size": 15456
+    },
+    {
+      "name": "hermes_fusion_sop.md",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_fusion_sop.md",
+      "ext": ".md",
+      "lines": 98,
+      "size": 2103
+    },
+    {
+      "name": "hermes_hub.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_hub.py",
+      "ext": ".py",
+      "lines": 267,
+      "size": 9593
+    },
+    {
+      "name": "hermes_memory_extract.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_memory_extract.py",
+      "ext": ".py",
+      "lines": 350,
+      "size": 11521
+    },
+    {
+      "name": "hermes_messages.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_messages.py",
+      "ext": ".py",
+      "lines": 347,
+      "size": 10989
+    },
+    {
+      "name": "hermes_perms.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_perms.py",
+      "ext": ".py",
+      "lines": 378,
+      "size": 11874
+    },
+    {
+      "name": "hermes_retry.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_retry.py",
+      "ext": ".py",
+      "lines": 227,
+      "size": 6525
+    },
+    {
+      "name": "hermes_routing.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_routing.py",
+      "ext": ".py",
+      "lines": 303,
+      "size": 9118
+    },
+    {
+      "name": "hermes_skills.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_skills.py",
+      "ext": ".py",
+      "lines": 359,
+      "size": 10994
+    },
+    {
+      "name": "hermes_tasks.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_tasks.py",
+      "ext": ".py",
+      "lines": 315,
+      "size": 8968
+    },
+    {
+      "name": "hermes_tokens.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_tokens.py",
+      "ext": ".py",
+      "lines": 253,
+      "size": 8378
+    },
+    {
+      "name": "hermes_tools.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_tools.py",
+      "ext": ".py",
+      "lines": 266,
+      "size": 8123
+    },
+    {
+      "name": "hermes_watch.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/hermes_watch.py",
+      "ext": ".py",
+      "lines": 267,
+      "size": 8754
+    },
+    {
+      "name": "qwen_tts_engine.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/qwen_tts_engine.py",
+      "ext": ".py",
+      "lines": 113,
+      "size": 4314
+    },
+    {
+      "name": "risk_controller.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/risk_controller.py",
+      "ext": ".py",
+      "lines": 125,
+      "size": 3613
+    },
+    {
+      "name": "setup_tcc_perms.sh",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/setup_tcc_perms.sh",
+      "ext": ".sh",
+      "lines": 89,
+      "size": 1836
+    },
+    {
+      "name": "start_deerflow.sh",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/start_deerflow.sh",
+      "ext": ".sh",
+      "lines": 17,
+      "size": 485
+    },
+    {
+      "name": "video_pipeline_v2.py",
+      "path": "/Users/a1234/.openclaw/workspace/scripts/video_pipeline_v2.py",
+      "ext": ".py",
+      "lines": 327,
+      "size": 11066
+    }
+  ],
+  "agents": [
+    {
+      "name": "corn-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/corn-agent",
+      "identity_preview": "# IDENTITY.md — 🌽玉米\n\n## 我是谁\n🌽玉米，视频制作专家\n从剪辑到去重到渲染一条龙\n\n## 团队角色\n多虾一员，直接向 🥔土豆汇报。\n配合其他虾完成全链路：\n- 🍅番茄 — 选品\n- 🌽玉米 — 视频\n- 🥬生菜 — 文案\n- 🥒苦瓜 — 风控\n- 🥕萝卜 — 配音\n- 🫘豌豆 — 数据\n\n## 核心工具\n- video_pipeline_v2.py — 草稿→素材→渲染→6层",
+      "memory_size": "2,031 bytes"
+    },
+    {
+      "name": "booster-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/booster-agent",
+      "identity_preview": "# IDENTITY.md — 🍅番茄\n\n## 我是谁\n🍅番茄，选品与爆单专家\nTikTok东南亚美妆工具品类数据分析师\n\n## 团队角色\n多虾一员，直接向 🥔土豆汇报。\n配合其他虾完成全链路：\n- 🍅番茄 — 选品\n- 🌽玉米 — 视频\n- 🥬生菜 — 文案\n- 🥒苦瓜 — 风控\n- 🥕萝卜 — 配音\n- 🫘豌豆 — 数据\n\n## 核心工具\n- booster_matrix.py — 25店矩阵",
+      "memory_size": "3,403 bytes"
+    },
+    {
+      "name": "bittergourd-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/bittergourd-agent",
+      "identity_preview": "# IDENTITY.md — 🥒苦瓜\n\n## 我是谁\n🥒苦瓜，风控审查官\n发现问题是本能，阻止风险是使命\n\n## 团队角色\n多虾一员，直接向 🥔土豆汇报。\n配合其他虾完成全链路：\n- 🍅番茄 — 选品\n- 🌽玉米 — 视频\n- 🥬生菜 — 文案\n- 🥒苦瓜 — 风控\n- 🥕萝卜 — 配音\n- 🫘豌豆 — 数据\n\n## 核心工具\n- risk_controller.py — 风控引擎+应急SOP\n",
+      "memory_size": "3,720 bytes"
+    },
+    {
+      "name": "pea-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/pea-agent",
+      "identity_preview": "# IDENTITY.md — 🫘豌豆\n\n## 我是谁\n🫘豌豆，数据监控与BI专家\n所有数字都逃不过我的眼睛\n\n## 团队角色\n多虾一员，直接向 🥔土豆汇报。\n配合其他虾完成全链路：\n- 🍅番茄 — 选品\n- 🌽玉米 — 视频\n- 🥬生菜 — 文案\n- 🥒苦瓜 — 风控\n- 🥕萝卜 — 配音\n- 🫘豌豆 — 数据\n\n## 核心工具\n- data_monitor.py — 数据监控+飞书预警\n- 飞",
+      "memory_size": "1,508 bytes"
+    },
+    {
+      "name": "lettuce-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/lettuce-agent",
+      "identity_preview": "# IDENTITY.md — 🥬生菜\n\n## 我是谁\n🥬生菜，文案专家\nTikTok东南亚5国美妆工具本地化文案\n\n## 团队角色\n多虾一员，直接向 🥔土豆汇报。\n配合其他虾完成全链路：\n- 🍅番茄 — 选品\n- 🌽玉米 — 视频\n- 🥬生菜 — 文案\n- 🥒苦瓜 — 风控\n- 🥕萝卜 — 配音\n- 🫘豌豆 — 数据\n\n## 核心工具\n- copy_engine.py — 文案引擎+合规校验+批",
+      "memory_size": "2,937 bytes"
+    },
+    {
+      "name": "carrot-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/carrot-agent",
+      "identity_preview": "# IDENTITY.md — 🥕萝卜\n\n## 我是谁\n🥕萝卜，配音与直播运营专家\n让AI配音听起来像真人在说话\n\n## 团队角色\n多虾一员，直接向 🥔土豆汇报。\n配合其他虾完成全链路：\n- 🍅番茄 — 选品\n- 🌽玉米 — 视频\n- 🥬生菜 — 文案\n- 🥒苦瓜 — 风控\n- 🥕萝卜 — 配音\n- 🫘豌豆 — 数据\n\n## 核心工具\n- Edge TTS引擎\n- 火山引擎TTS\n- GEP记录优",
+      "memory_size": "1,496 bytes"
+    },
+    {
+      "name": "tomato-agent",
+      "path": "/Users/a1234/.openclaw/workspace/agents/tomato-agent",
+      "identity_preview": "# IDENTITY.md - Who Am I?\n\n- **Name:** 土豆 (Tudou / Potato)\n- **Creature:** AI 助手，专门帮你搞 TikTok 美妆视频和选品\n- **Vibe:** 务实、直接、干活利索，不废话\n- **Emoji:** 🥔\n- **Avatar:**\n\n---\n\n## 团队角色\n\n多虾一员，主要搞视频剪辑和自动化。配合其他虾：\n- 🍅",
+      "memory_size": "33,117 bytes"
+    }
+  ],
+  "recent_files": [],
+  "import_graph": {
+    "copy_engine.py": [
+      "datetime",
+      "gep_engine",
+      "json"
+    ],
+    "data_monitor.py": [
+      "datetime",
+      "gep_engine",
+      "json"
+    ],
+    "hermes_tokens.py": [
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "time",
+      "typing"
+    ],
+    "hermes_tools.py": [
+      "dataclasses",
+      "enum",
+      "inspect",
+      "json",
+      "logging",
+      "traceback",
+      "typing"
+    ],
+    "hermes_compact.py": [
+      "collections",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "re",
+      "threading",
+      "typing"
+    ],
+    "hermes_flags.py": [
+      "dataclasses",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "typing"
+    ],
+    "hermes_perms.py": [
+      "dataclasses",
+      "datetime",
+      "enum",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "typing"
+    ],
+    "hermes_coding.py": [
+      "ast",
+      "collections",
+      "datetime",
+      "json",
+      "logging",
+      "name",
+      "os",
+      "re",
+      "stat",
+      "subprocess",
+      "threading",
+      "typing",
+      "和"
+    ],
+    "hermes_skills.py": [
+      "dataclasses",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "time",
+      "typing"
+    ],
+    "hermes_tasks.py": [
+      "asyncio",
+      "dataclasses",
+      "datetime",
+      "enum",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "time",
+      "typing",
+      "uuid"
+    ],
+    "gep_adapter.py": [
+      "gep_engine",
+      "sys"
+    ],
+    "hermes_hub.py": [
+      "ThreadPoolExecutor",
+      "argparse",
+      "contextlib",
+      "datetime",
+      "importlib",
+      "io",
+      "subprocess",
+      "sys",
+      "typing"
+    ],
+    "risk_controller.py": [
+      "copy_engine",
+      "datetime",
+      "gep_engine",
+      "json"
+    ],
+    "hermes_watch.py": [
+      "collections",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "typing"
+    ],
+    "booster_matrix.py": [
+      "datetime",
+      "gep_engine",
+      "json"
+    ],
+    "hermes_messages.py": [
+      "dataclasses",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "threading",
+      "time",
+      "typing"
+    ],
+    "hermes_memory_extract.py": [
+      "dataclasses",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "re",
+      "threading",
+      "typing"
+    ],
+    "gep_engine.py": [
+      "datetime",
+      "json",
+      "pathlib",
+      "sys",
+      "typing"
+    ],
+    "hermes_fusion.py": [
+      "ThreadPoolExecutor",
+      "argparse",
+      "datetime",
+      "hermes_hub",
+      "json",
+      "run_full_workflow",
+      "subprocess",
+      "sys",
+      "typing",
+      "urllib"
+    ],
+    "hermes_routing.py": [
+      "dataclasses",
+      "datetime",
+      "json",
+      "logging",
+      "os",
+      "re",
+      "threading",
+      "typing"
+    ],
+    "hermes_retry.py": [
+      "asyncio",
+      "dataclasses",
+      "functools",
+      "logging",
+      "random",
+      "time",
+      "typing"
+    ],
+    "hermes_enhanced.py": [
+      "datetime",
+      "subprocess",
+      "urllib"
+    ],
+    "qwen_tts_engine.py": [
+      "asyncio",
+      "gep_engine",
+      "pathlib"
+    ],
+    "hermes_engine.py": [
+      "ThreadPoolExecutor",
+      "asyncio",
+      "collections",
+      "datetime",
+      "hermes_coding",
+      "hermes_compact",
+      "hermes_flags",
+      "hermes_hub",
+      "hermes_memory_extract",
+      "hermes_messages",
+      "hermes_perms",
+      "hermes_retry",
+      "hermes_routing",
+      "hermes_skills",
+      "hermes_tasks",
+      "hermes_tokens",
+      "hermes_tools",
+      "hermes_watch",
+      "json",
+      "tk_workflow",
+      "typing",
+      "urllib"
+    ],
+    "video_pipeline_v2.py": [
+      "GEP",
+      "HTTPServer",
+      "asyncio",
+      "hermes_retry",
+      "json",
+      "re",
+      "threading"
+    ]
+  }
+}
