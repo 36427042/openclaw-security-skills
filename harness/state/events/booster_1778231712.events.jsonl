@@ -1,4 +1,0 @@
-{"ts": "2026-05-08T17:15:12.419186", "task_id": "booster_1778231712", "type": "task_created", "data": {"name": "🍅番茄·选品", "owner": "booster"}}
-{"ts": "2026-05-08T17:15:12.419338", "task_id": "booster_1778231712", "type": "task_started", "data": {}}
-{"ts": "2026-05-08T17:15:12.423586", "task_id": "booster_1778231712", "type": "step_completed", "data": {"step": "execute", "detail": "  [2026-05-08 17:15:12] ========================================\n  [2026-05-08 17:15:12] 🍅 爆单矩阵启动 (G"}}
-{"ts": "2026-05-08T17:15:12.423681", "task_id": "booster_1778231712", "type": "task_completed", "data": {}}

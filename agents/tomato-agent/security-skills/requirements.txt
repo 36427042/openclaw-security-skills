@@ -1,5 +1,0 @@
-# Python 依赖
-# 所有 Skill 仅使用 Python 标准库，无需额外依赖
-
-# 如需 JSON 高亮输出（可选）
-# pip install pygments
