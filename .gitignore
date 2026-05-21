@@ -46,3 +46,16 @@ logs/
 .evomap_secret_*
 miaoshou_*.py
 *.DS_Store
+
+# 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 密钥文件（绝不能公开）
+.evomap_secret_*
+.credentials/
+*.env
+
+# 内部脚本（含API key等）
+scripts/__pycache__/
