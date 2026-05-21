@@ -59,3 +59,4 @@ __pycache__/
 
 # 内部脚本（含API key等）
 scripts/__pycache__/
+scripts/
